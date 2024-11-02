@@ -21,9 +21,9 @@ This is a template that shows how you should write a page about a group
 * Founded by: 
   * user01XDlol
   * CapyKing10
-* Founding Story: (optional)
+* Founding Story: 
 
-## Acomplishments
+## Accomplishments
 - Built a megabase called Abongagazaza *(With optional link to megabase)*
 - Won a pvp tournament
 

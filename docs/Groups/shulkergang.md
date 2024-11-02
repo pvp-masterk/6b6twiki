@@ -19,10 +19,9 @@ tags:
   * [28st](../Players/28st.md)
   * kokos_odpadnem
   * schmiddie
-* Founding Story:
-> [28st](../Players/28st.md) met Kokos in a server made by Laggang, Kokos teached [28st](../Players/28st.md) how to dupe , kokos handed him kits and [28st](../Players/28st.md) joined his clan, kokos and [28st](../Players/28st.md) talked alot and somehow [28st](../Players/28st.md) asked kokos for his account password and kokos gave it and they trusted eachother, Then Kokos made Schmiddie meet [28st](../Players/28st.md), [28st](../Players/28st.md) offered to make Shulkergang because it was famous to wear Shulkers with the command /head.
+* Founding Story: [28st](../Players/28st.md) met Kokos in a server made by Laggang, Kokos taught [28st](../Players/28st.md) how to dupe, so kokos handed him kits and [28st](../Players/28st.md) joined his clan, kokos and [28st](../Players/28st.md) talked alot and somehow [28st](../Players/28st.md) asked kokos for his account password and kokos gave it and they trusted eachother, then Kokos made Schmiddie met [28st](../Players/28st.md), [28st](../Players/28st.md) offered to make Shulkergang because it was famous to wear shulkers with the command /head.
 
-## Acomplishments
+## Accomplishments
 - Massive Maparts
 - Massive builds / bases
 - Became one of the most Notable clans on 6b6t
@@ -39,11 +38,11 @@ tags:
 
 ## Notable Members
 - [[28st](../Players/28st.md)](../Players/[28st](../Players/28st.md).md) (Founder)
-- kokos (Founder)
+- kokos_odpadnem (Founder)
 - schmiddie (Founder)
 - [CapyKing10](../Players/Less%20Relevant%20Players/capy.md) (Leader)
 - [myniany](../Players/myniany.md) (Leader)
-- lil__perp (leader)
+- [lil__perp](/docs/Players/lilperp.md) (leader)
 - ByroBuff (leader)
 - aodrael (leader)
 - [scarthebest1943](../Players/scar.md) (leader)
@@ -52,16 +51,16 @@ tags:
 - Backup_Inventory (Mod)
 - Rozen (Mod)
 - audsis (higher member)
-- vined (higher member)
+- [vined_](/docs/Players/vined.md) (higher member)
 - femboy (higher member)
 - jajo341 (member)
 - wiesiupvp (member)
-- c1yd3i (member)
+- [c1yd3i](/docs/Players/clyde.md) (member)
 - TheJTnoob (member)
 - TheTroll2001 (THE chatter)
 
 ## Downfall of 1.12.2 Shulkergang
-> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when [28st](../Players/28st.md) decided to make a vote to get a new leader in Shulkergang. the options were Price and lil__perp. He also mentioned that the loser would be co-leader. liL__perp won the vote, making price the new co-leader. For an unknown reason it turned out lil perp and schmiddie made an agreement to kicking kokos_udpadnem for a unknown reason. When they asked [28st](../Players/28st.md) to kick kokos from the group, he wanted to find a peaceful way to fix this. Then lil__perp, audsis, wiesiupvp and vined made a group, then they nuked shulkergang which was 900 members at the time, resulting it in dying.
+> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when [28st](../Players/28st.md) decided to make a vote to get a new leader in Shulkergang. The two options were either Price or [lil__perp](/docs/Players/lilperp.md). He also mentioned that the loser would be co-leader. [lil__perp](/docs/Players/lilperp.md) won the vote, making Price the new co-leader. It later turned out lil perp and schmiddie made an agreement to kicking kokos_odpadnem for an unknown reason. When they asked [28st](../Players/28st.md) to kick kokos from the group, he wanted to find a peaceful way to fix this. Because of this, [lil__perp](/docs/Players/lilperp.md), audsis, wiesiupvp and [vined_](/docs/Players/vined.md) made a group, and nuked shulkergang. Shulkergang had 900 members at the time, and the nuking resulted in its death.
 
 ## Downfall of 1.19 Shulkergang
 > 10/20/23: [28st](../Players/28st.md) kicks bd71legend one of the leaders of sg blaming him for making everyone a enemy of shulkergang and using the members for his own sake. After that [28st](../Players/28st.md) appointed two new leaders: [scar](../Players/scar.md) and aodrael.

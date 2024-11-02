@@ -20,7 +20,7 @@ tags:
 * 6b6t: insert joindate here
 * other servers: insert joindate here if the user played other anarchy servers
 
-## Acomplishments
+## Accomplishments
 - Built highway called interstate 01
 - Griefed bot01's megabase *(With optional link to megabase)*
 

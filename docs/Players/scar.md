@@ -31,7 +31,7 @@ tags:
 * Newfag101
 * L3goMan3d
 
-## Acomplishments
+## Accomplishments
 * Became one of the most well known griefers on 6b
 * Became one of the largest 6b6t content creators 
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to foila

@@ -18,7 +18,7 @@ tags:
 * [NameMC](https://namemc.com/profile/scarthebest1943.1)
 
 ## Joindate
-* 6b6t: 1 December 2022
+* 6b6t: December 1st, 2022
 
 ## Minecraft Account list
 * [scarthebest1943](https://namemc.com/profile/scarthebest1943.1)

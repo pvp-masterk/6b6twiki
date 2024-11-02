@@ -11,10 +11,10 @@ tags:
 ---
 Welcome to the 6b6t Wiki, the go to page for information regarding 6b6t.org. This wiki was created on April 2nd, 2024. Please join our [Discord server](https://discord.gg/Em4AAcjXvD) and make some contributions to our [GitHub](https://github.com/therealrealguy/6b6twiki/)! If your modifications get accepted they will be implemented, more info in the FAQ section below
 
-### NOTE: we also have a mediawiki version of this wiki [here](http://uk1.plutonodes.com:25009/index.php)
+### NOTE: A MediaWiki version of this Wiki can be found [here](http://uk1.plutonodes.com:25009/index.php).
 
-## FAQ
----
+## Frequently Asked Questions
+
 
 * Q: I don't know how to code!
 * A: You don't need to know anything about coding to write a markdown page. Markdown is made to be easy. You can watch [this](https://youtu.be/_PPWWRV6gbA?t=25) crash course on markdown to know how to use it. If you absolutely refuse to learn markdown, you can write a page and send it to us to make it look fancy.

@@ -28,7 +28,7 @@ tags:
 * NameMC: https://namemc.com/profile/vined_.1
 
 ## Join Date
-* 6b6t: 7th of August 2022 (7/8/2022)
+* 6b6t: August 7, 2022.
 
 ## Accomplishments
 - Most player kills (2,408,921 kills on account **vined_** as of 1/5/2024)

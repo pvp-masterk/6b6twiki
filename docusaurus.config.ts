@@ -123,7 +123,7 @@ const config = {
               href: 'https://discord.gg/Em4AAcjXvD',
             },
             {
-              href: 'https://github.com/therealrealguy/6b6twiki/',
+              href: 'https://github.com/15ggd/6b6twiki',
               label: 'GitHub',
               position: 'right',
             },

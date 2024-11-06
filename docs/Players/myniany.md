@@ -18,9 +18,9 @@ tags:
 * [NameMC](https://namemc.com/profile/Myniany.1)
 
 ## Joindate
-* 6b6t: start of january 2022
+* The start of January 2022
 
-## Acomplishments
+## Accomplishments
 * 400x400 Water cube at 0 0 in overworld and in the end
 * Dug out 5k x 5k 3 block high way in nether
 * Former Owner of 2 largest archives on the server

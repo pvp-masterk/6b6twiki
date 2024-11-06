@@ -7,7 +7,6 @@ tags:
   - Contributing
 ---
 
-**NOTE:** user01xdlol is not a real person
 
 ## Identity
 * Formal name: user01XDlol
@@ -17,12 +16,10 @@ tags:
 * [NameMC](https://namemc.com/)
 
 ## Joindate
-* 6b6t: insert joindate here
-* other servers: insert joindate here if the user played other anarchy servers
+* insert joindate here
 
 ## Accomplishments
-- Built highway called interstate 01
-- Griefed bot01's megabase *(With optional link to megabase)*
+- put accomplishments
 
 ## Skin
 (skin from namemc, format: `![Skin](skin PNG url)`)

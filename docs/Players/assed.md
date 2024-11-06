@@ -14,10 +14,10 @@ tags:
 * Discord: `assed_`
 
 ## Joindate
-* 6b6t: 27 febraury 2023
+* 6b6t: February 27th, 2023.
 
 
-## Acomplishments
+## Accomplishments
 - Reached nether border traveling by hand from 0 0
 - Top gold hoes crafted till october 2023
 - Completed all potions, throwable potions, persistant potions and arrows when was still full-vanilla

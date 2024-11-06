@@ -16,7 +16,7 @@ tags:
 * Discord: `c6r`
 
 ## Joindate
-* 6b6t: January 17, 2022
+* January 17th, 2022
 
 ## Minecraft Account list
 * c1yd3i

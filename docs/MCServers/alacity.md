@@ -9,7 +9,7 @@ tags:
 
 ### General
 * Name: alacity
-* Online: `Yes`
+* Online: `No`
 * Website: [alacity.net](https://www.alacity.net/)
 * Shop: [alacity.tebex.io](https://alacity.tebex.io/)
 * Discord: https://discord.com/invite/HhEuXZTdJU

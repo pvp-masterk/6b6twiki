@@ -120,7 +120,7 @@ const config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/Em4AAcjXvD',
+              href: 'https://dsc.gg/witherco',
             },
             {
               href: 'https://github.com/15ggd/6b6twiki',

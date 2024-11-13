@@ -10,10 +10,7 @@ tags:
 ### General
 * Name: alacity
 * Online: `No`
-* Website: [alacity.net](https://www.alacity.net/)
-* Shop: [alacity.tebex.io](https://alacity.tebex.io/)
-* Discord: https://discord.com/invite/HhEuXZTdJU
-* [NameMC](https://namemc.com/server/alacity.net)
+* Description: Alacity was shut down and the domain now redirects to 6b6t since October 2024. Qbasty owns the domain.
 * IP: `alacity.net`
 
-* Owner: Daynios
+* Previous Owner: Daynios

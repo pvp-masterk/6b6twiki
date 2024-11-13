@@ -53,7 +53,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/therealrealguy/6b6twiki/edit/main/docs/${docPath}`;
+            return `https://github.com/15ggd/6b6twiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,

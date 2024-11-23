@@ -1,5 +1,4 @@
 ---
-sidebar_position: 7
 sidebar_label: 'hokindo9000'
 title: 'hokindo9000'
 tags:

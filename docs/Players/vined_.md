@@ -1,7 +1,6 @@
 ---
-sidebar_position: 3
-sidebar_label: 'Vined_'
-title: 'Vined_'
+sidebar_label: 'vined_'
+title: 'vined_'
 tags:
   - Players
   - 6b6t

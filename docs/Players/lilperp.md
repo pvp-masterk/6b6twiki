@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 sidebar_label: 'lil__perp'
 title: 'lil__perp'
 tags:

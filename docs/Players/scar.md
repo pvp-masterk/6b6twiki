@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 sidebar_label: 'Scarthebest1943'
 title: 'Scarthebest1943'
 tags:

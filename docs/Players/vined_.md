@@ -1,11 +1,11 @@
 ---
-sidebar_label: 'vined_'
-title: 'vined_'
+sidebar_position: 3
+sidebar_label: 'Vined_'
+title: 'Vined_'
 tags:
-  - Player
-  - Contributor
+  - Players
+  - 6b6t
 ---
-
 # `vined`
 
 ## Identity

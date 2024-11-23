@@ -3,7 +3,7 @@ title: 6b6t wiki Credits
 ---
 
 # Credits
-See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/graphs/contributors) repository
+See all contributors on the [GitHub](https://github.com/Advik555wastaken/6b6twiki/graphs/contributors) repository
 
 * **[North](https://6b6t-wiki.vercel.app/Players/North)**:
   * Idea man
@@ -11,7 +11,7 @@ See all contributors on the [GitHub](https://github.com/therealrealguy/6b6twiki/
 * **[Advik](https://6b6t-wiki.vercel.app/Players/Advik555)**:
   * Idea man
   * Discord: `_advik555`
-  * Github: https://github.com/therealrealguy
+  * Github: https://github.com/Advik555wastaken
 * **[Capy](https://6b6t-wiki.vercel.app/Players/capy)**:
   * Idea man
   * Wiki Writer

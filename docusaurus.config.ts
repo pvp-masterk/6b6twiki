@@ -53,7 +53,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/therealrealguy/6b6twiki/edit/main/docs/${docPath}`;
+            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -93,7 +93,7 @@ const config = {
       items: [
         { to: '/', label: 'Wiki', position: 'left' },
         {
-          href: 'https://github.com/therealrealguy/6b6twiki/',
+          href: 'https://github.com/Advik555wastaken/6b6twiki/',
           label: 'GitHub',
           position: 'right',
         },
@@ -123,7 +123,7 @@ const config = {
               href: 'https://discord.gg/Em4AAcjXvD',
             },
             {
-              href: 'https://github.com/therealrealguy/6b6twiki/',
+              href: 'https://github.com/Advik555wastaken/6b6twiki/',
               label: 'GitHub',
               position: 'right',
             },

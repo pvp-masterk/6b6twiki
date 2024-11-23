@@ -1,8 +1,10 @@
 ---
-sidebar_label: 'scarthebest1943'
-title: 'scarthebest1943'
+sidebar_position: 2
+sidebar_label: 'Scarthebest1943'
+title: 'Scarthebest1943'
 tags:
-  - Player
+  - Players
+  - 6b6t
 ---
 
 # `scarthebest1943`

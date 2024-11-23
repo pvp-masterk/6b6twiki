@@ -15,10 +15,10 @@ tags:
 * [NameMC](https://nl.namemc.com/profile/DuhDeadlyDurk.1)
 
 ## Joindate
-* 6b6t: 05-05-2022
-* 9b9t: april 2022
+* May 5th, 2022.
 
-## Acomplishments
+
+## Accomplishments
 - Built 555 bedrock logos of The 555 at spawn under time pressure. (This can be found in the discord server of [The 555](../Groups/555.md))
 - Created the Anti-Imperials (got nuked)
 - Became co-owner of [The 555!](../../Groups/555.md), 6b6t's biggest active clan.

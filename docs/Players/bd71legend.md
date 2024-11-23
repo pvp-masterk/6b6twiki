@@ -16,9 +16,9 @@ tags:
 * Discord: `bd71legend.`
 
 ## Joindate
-* 7b7t: mid 2021 (exact date unclear)
+* None found.
 
-## Acomplishments
+## Accomplishments
 * One of the most known griefers
 * Contributing to the largest mapart on 6b6t
 

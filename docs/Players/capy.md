@@ -24,9 +24,9 @@ tags:
 * [NameMC](https://namemc.com/profile/CapyKing10.1)
 
 ## Joindate
-* 6b6t: 25 march 2023
+* March 25th, 2023. 
 
-## Acomplishments
+## Accomplishments
 * Built 555 bedrock logos at spawn (screenshots can be found in [The 555's discord server](https://dsc.gg/the555))
 * Created anti-imperials (got nuked)
 * Became co-owner of the 555

@@ -18,7 +18,7 @@ tags:
 * Founded by: 
   * Lerpietong
   * Byrobuff
-* Founding Story: (optional)
+* Founding Story:
 > The Hive branched of off another group called Pyromaniac Fireflies. It started with a Pyromaniac Fireflies base called "The Hive" or also considered as Hive 1. But somehow the base got griefed quickly. So Lerpietong and Byrobuff and some other members of Hive 1 joined forced to form the "The Hive" group. They did this cause they were fed up with the other owners of Pyromaniac Fireflies. They later made [Hive 2](https://www.youtube.com/watch?v=sFIcEpTGAiU) and Hive Halloween
 
 
@@ -26,10 +26,10 @@ tags:
 
 ![Hive Halloween](../../static/img/groups/The%20Hive/halloween2.png)
 
-## Acomplishments
+## Accomplishments
 - Built a megabase called Hive 2!
 - Built a base called Hive Halloween!
-- Had some of the mote Notable 6b6t players as builders!
+- Had some of the most Notable 6b6t players as builders!
 
 ## Bases
 - Hive 1 (pyromaniac fireflies)

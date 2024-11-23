@@ -16,7 +16,7 @@ tags:
 * Discord: `_advik555`
 * [YouTube](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
 
-## Minecraft Account list
+## Minecraft Account List
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1)
 * advik123
 * advikbot
@@ -45,7 +45,7 @@ tags:
 * _Minh2008
 
 
-## Acomplishments
+## Accomplishments
 - Founder of The [555](https://6b6t-wiki.vercel.app/Groups/555)
 - Flown 46+ million blocks on the server
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work (555.1 dupe)

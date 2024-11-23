@@ -18,7 +18,7 @@ tags:
 * [NameMC](https://namemc.com/profile/scarthebest1943.1)
 
 ## Joindate
-* 6b6t: 1 December 2022
+* 6b6t: December 1st, 2022
 
 ## Minecraft Account list
 * [scarthebest1943](https://namemc.com/profile/scarthebest1943.1)
@@ -31,7 +31,7 @@ tags:
 * Newfag101
 * L3goMan3d
 
-## Acomplishments
+## Accomplishments
 * Became one of the most well known griefers on 6b
 * Became one of the largest 6b6t content creators 
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to foila
@@ -51,6 +51,7 @@ tags:
 * 6b6t Collectables
 * 6b6t times
 * DonFuer 6b6t
+* 104
 
 ## Inactive Groups
 * Exodus (Disbanded)

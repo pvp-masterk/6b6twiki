@@ -1,14 +1,15 @@
 ---
-sidebar_label: '_aleseeq__'
-title: '_aleseeq__'
+sidebar_position: 10
+sidebar_label: 'North'
+title: 'North'
 tags:
   - Player
 ---
 
-# `_aleseeq__`
+# `North`
 
 ## Identity
-* Formal name: `_aleseeq__`
+* Formal name: `North`
 * Mainly known as: North
 
 ## Contacts

@@ -4,7 +4,7 @@ title: 'qbasty'
 tags:
   - Player
   - Owner
-  - 6b6t
+  - Contributor
 ---
 
 # `qbasty`

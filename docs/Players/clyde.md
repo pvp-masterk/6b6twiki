@@ -3,7 +3,6 @@ sidebar_label: 'c1yd3i'
 title: 'c1yd3i'
 tags:
   - Player
-  - 6b6t
 ---
 
 # `c1yd3i`
@@ -43,7 +42,7 @@ tags:
 
 ## Groups
 * Cumgang
-* 104
+* [Project 104](../Groups/104.md)
 * Laggang
 * Mercenary Army
 * Vulcan

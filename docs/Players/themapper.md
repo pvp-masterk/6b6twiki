@@ -4,7 +4,6 @@ sidebar_label: 'TheMapper'
 title: 'TheMapper'
 tags:
   - Player
-  - 6b6t
 ---
 
 ## Identity

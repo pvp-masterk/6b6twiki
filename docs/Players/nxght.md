@@ -3,7 +3,6 @@ sidebar_label: 'xiNxghtMar3ix'
 title: 'xiNxghtMar3ix'
 tags:
   - Player
-  - 6b6t
 ---
 
 # `xiNxghtMar3ix`

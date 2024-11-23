@@ -4,7 +4,6 @@ sidebar_label: 'lil__perp'
 title: 'lil__perp'
 tags:
   - Players
-  - 6b6t
 ---
 
 ## Identity
@@ -32,4 +31,4 @@ tags:
 ## Clans
 - IKEA
 - LagGang (Disbanded)
-- Project 104
+- [Project 104](../Groups/104.md)

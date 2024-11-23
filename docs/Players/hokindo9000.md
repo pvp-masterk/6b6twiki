@@ -4,7 +4,6 @@ sidebar_label: 'hokindo9000'
 title: 'hokindo9000'
 tags:
   - Players
-  - 6b6t
 ---
 
 
@@ -30,6 +29,6 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=c1f1221693d03a20&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-- [Project 104](https://6b6t-wiki.vercel.app/Groups/104)
+- [Project 104](../Groups/104.md)
 - IKEA
 - Laggang

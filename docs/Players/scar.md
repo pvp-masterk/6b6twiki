@@ -3,7 +3,6 @@ sidebar_label: 'scarthebest1943'
 title: 'scarthebest1943'
 tags:
   - Player
-  - 6b6t
 ---
 
 # `scarthebest1943`
@@ -51,7 +50,7 @@ tags:
 * 6b6t Collectables
 * 6b6t times
 * DonFuer 6b6t
-* 104
+* [Project 104](../Groups/104.md)
 
 ## Inactive Groups
 * Exodus (Disbanded)

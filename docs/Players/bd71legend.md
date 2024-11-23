@@ -3,7 +3,7 @@ sidebar_label: 'bd71legend'
 title: 'bd71legend'
 tags:
   - Player
-  - 6b6t
+  - Contributor
 ---
 
 # `bd71legend`

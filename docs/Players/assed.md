@@ -3,7 +3,6 @@ sidebar_label: '_assed_'
 title: 'assed_'
 tags:
   - Player
-  - 6b6t
 ---
 
 ## Identity

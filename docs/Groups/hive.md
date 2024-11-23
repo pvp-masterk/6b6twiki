@@ -3,7 +3,6 @@ sidebar_label: 'The Hive'
 title: 'The Hive'
 tags:
   - Group
-  - 6b6t
 ---
 
 ## Identity

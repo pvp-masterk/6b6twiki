@@ -3,7 +3,6 @@ sidebar_label: 'Myniany'
 title: 'Myniany'
 tags:
   - Player
-  - 6b6t
 ---
 
 # `Myniany`

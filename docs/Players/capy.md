@@ -3,7 +3,7 @@ sidebar_label: 'CapyKing10'
 title: 'CapyKing10'
 tags:
   - Player
-  - 6b6t
+  - Contributor
 ---
 
 # `CapyKing10`

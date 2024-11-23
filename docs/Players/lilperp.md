@@ -1,12 +1,11 @@
 ---
 sidebar_position: 1
-sidebar_label: 'User template'
-title: 'User template'
+sidebar_label: 'lil__perp'
+title: 'lil__perp'
 tags:
   - Players
   - 6b6t
 ---
-
 
 ## Identity
 * Formal name: lil__perp

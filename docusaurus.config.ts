@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/icons/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://6bwiki.vercel.app',
+  url: 'https://6b6t-wiki.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -53,7 +53,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/15ggd/6b6twiki/edit/main/docs/${docPath}`;
+            return `https://github.com/therealrealguy/6b6twiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -93,7 +93,7 @@ const config = {
       items: [
         { to: '/', label: 'Wiki', position: 'left' },
         {
-          href: 'https://github.com/15ggd/6b6twiki',
+          href: 'https://github.com/therealrealguy/6b6twiki/',
           label: 'GitHub',
           position: 'right',
         },
@@ -120,10 +120,10 @@ const config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://dsc.gg/witherco',
+              href: 'https://discord.gg/Em4AAcjXvD',
             },
             {
-              href: 'https://github.com/15ggd/6b6twiki',
+              href: 'https://github.com/therealrealguy/6b6twiki/',
               label: 'GitHub',
               position: 'right',
             },

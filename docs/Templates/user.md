@@ -9,17 +9,17 @@ tags:
 
 
 ## Identity
-* Formal name: user01XDlol
+* Name: user01XDlol
 * Mainly goes by: user
 * Discord: `user01xdlol.`
 * [YouTube](https://www.youtube.com/)
 * [NameMC](https://namemc.com/)
 
 ## Joindate
-* insert joindate here
+insert joindate here
 
 ## Accomplishments
-- put accomplishments
+* Put accomplishments here
 
 ## Skin
 (skin from namemc, format: `![Skin](skin PNG url)`)

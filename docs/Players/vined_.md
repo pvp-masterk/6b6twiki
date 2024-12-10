@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: 'vined_'
 title: 'vined_'
 tags:
-  - Players
+  - Player
   - 6b6t
 ---
 # `vined`

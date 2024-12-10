@@ -2,11 +2,11 @@
 sidebar_label: 'lil__perp'
 title: 'lil__perp'
 tags:
-  - Players
+  - Player
 ---
 
 ## Identity
-* Formal name: lil__perp
+* Formal name: `lil__perp`
 * Mainly goes by: perp
 * Alts: ChunkBans
 * Discord: `acrobats`, `kamazwarrior`

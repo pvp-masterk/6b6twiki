@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: 'Advik555'
 title: 'Advik555'
 tags:
-  - Players
+  - Player
   - 6b6t
 ---
 

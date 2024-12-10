@@ -3,7 +3,7 @@ sidebar_position: 7
 sidebar_label: 'Noon'
 title: 'Noon'
 tags:
-  - Players
+  - Player
 ---
 
 

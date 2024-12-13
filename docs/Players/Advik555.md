@@ -21,6 +21,7 @@ tags:
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
 * Advik123 (main account)
 
+ㅤ
 * ........_.......
 * 321kivda
 * 8b8t.org
@@ -61,7 +62,6 @@ tags:
 * T1ger97
 * thansanlo
 * youknowmyalt
-
 
 ## Accomplishments
 - Founder of The [555](https://6b6t-wiki.vercel.app/Groups/555)

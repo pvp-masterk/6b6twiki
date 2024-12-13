@@ -18,32 +18,49 @@ tags:
 * [YouTube](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
 
 ## Minecraft Account List
-* [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1)
-* advik123
-* advikbot
-* advik555
-* elf_bitchard
-* youknowmyalt
-* Adick555
-* karnage4556
-* advikbot
-* Firtree1000
-* scarelmejor1943
-* Advikl23
-* 8b8t.org
+* [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
+* Advik123 (main account)
+
 * ........_.......
+* 321kivda
+* 8b8t.org
+* _Minh2008
 * ABCDEFGHKLMNOP
-* Quebastie
-* AdvikSSS
-* Advik5SS
+* Adick555
+* Advik000
+* Advik1000
+* Advik111
+* Advik222
+* Advik333
+* advik555
 * Advik55S
+* Advik5SS
+* Advik777
+* advikbot
+* advikbot
+* Advikl23
 * AdvikS55
 * AdvikSS5
-* rootbear20
+* AdvikSSS
+* Angelvik555
+* DuhDeadlyDirk
+* elf_bitchard
+* Firtree1000
+* karnage4556
 * kivda321
-* 321kivda
+* kivda555
+* kokos_odpandem_
+* paseuta
+* patosogamar
+* patosogamero
+* QuaintBeast9600
+* Quebastie
+* rootbear20
+* scarelmejor1943
+* seasnail413
 * T1ger97
-* _Minh2008
+* thansanlo
+* youknowmyalt
 
 
 ## Accomplishments

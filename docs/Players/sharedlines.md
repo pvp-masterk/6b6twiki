@@ -17,7 +17,7 @@ tags:
 * Discord: `sharedlines`
 * [NameMC](https://namemc.com/profile/Sharedlines.1)
 
-### Acomplishments
+### Accomplishments
 * Founder of 6b6t Times
 * Boatfly exploit
 * [Auth exploit](https://www.youtube.com/watch?v=rZHIQOuM0tM)

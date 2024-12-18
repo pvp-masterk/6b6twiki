@@ -20,7 +20,7 @@ tags:
 * [openanarchy](https://nl.namemc.com/profile/openanarchy.4)
 * [lxvy](https://nl.namemc.com/profile/lxvy.4)
 
-## Acomplishments
+## Accomplishments
 * Winning the 2023 Christmas mapart competition
 * Having the largest map collection on the server (as of 29/4/2024)
 * Self proclaimed best mapart maker on 6b6t

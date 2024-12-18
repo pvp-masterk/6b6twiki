@@ -7,7 +7,7 @@
 ## Joindate
 * December 2023
 
-## Acomplishments
+## Accomplishments
 - Griefed nearly 90k dubs beetween around 5 alts and 8 teams.
 - Insided 3 teams including: Trinity, Rapture, Tesseract
 

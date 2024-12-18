@@ -22,7 +22,7 @@ tags:
 ## Contacts:
 * Discord: `qbasty`
 
-### Acomplishments
+### Accomplishments
 - Owner of 6b6t
 - Created the server MatrixCraft in 2020 that later turned into MatrixAnarchy
 - Became the owner of OpenAnarchy in 2021

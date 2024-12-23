@@ -18,15 +18,18 @@ tags:
 * [YouTube](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
 
 ## Minecraft Account List
-* [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
 * Advik123 (main account)
+* [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
+* [_Advik555](https://namemc.com/_Advik555)
 
 ㅤ
 * ........_.......
+* ._0
 * 321kivda
 * 8b8t.org
 * _Minh2008
 * ABCDEFGHKLMNOP
+* advik213
 * Adick555
 * Advik000
 * Advik1000

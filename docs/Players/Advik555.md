@@ -79,12 +79,12 @@ tags:
 - Discovered 120 BPS+ elytra fly config
 
 ## Clans
-- 555 clan
-- donfuer 6b6t
+- [555](../Groups/555.md)
+- DonFuer 6b6t
 - Imperials' 6b6t branch
-- mapart empire (period of inactivity)
-- cumgang
-- the legion
+- Mapart Empire (otherwise known as The Hentai Empire)
+- Cumgang
+- The Legion
 - Military
 
 ### Previous clans

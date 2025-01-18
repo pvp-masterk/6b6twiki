@@ -21,7 +21,7 @@ tags:
 - Created the Anti-Imperials (got nuked)
 - Became co-owner of [The 555!](../../Groups/555.md), 6b6t's biggest active clan
 - Created Endless Inventories (unreleased)
-- Betrayed 555
+- Betrayed 555 and created Art. 461
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b24124ee2cc014a9&model=classic&theta=30&phi=21&time=90&width=100&height=200)

@@ -27,5 +27,5 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b24124ee2cc014a9&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-- 6b6t times (news reporter)
+- Saviors
 - Article 461

@@ -40,8 +40,8 @@ tags:
 ## Notable Members
 - Lerpietong (founder)
 - Byrobuff (founder)
-- [CapyKing10](../Players/Less%20Relevant%20Players/capy.md) (leader)
-- [Mynainy](../Players/Less%20Relevant%20Players/North.md) (leader)
+- [CapyKing10](../Players/capy.md) (leader)
+- [Mynainy](../Players/north.md) (leader)
 - lex1on (Epic Builder)
 - hokindo9000 (builder)
 - vined_ (builder)
@@ -50,7 +50,7 @@ tags:
 - Jajo341 (builder)
 - lil__perp (builder)
 - c1yd3i (builder)
-- [_aleseeq__](../Players/Less%20Relevant%20Players/North.md) (builder)
+- [_aleseeq__](../Players/north.md) (builder)
 - Sharedlines (builder)
 
 ## Logo / Banner:

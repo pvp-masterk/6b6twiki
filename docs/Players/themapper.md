@@ -19,7 +19,7 @@ tags:
 ## Accomplishments
 - Built 555 bedrock logos of The 555 at spawn (This can be found in the discord server of [The 555](../Groups/555.md))
 - Created the Anti-Imperials (got nuked)
-- Became co-owner of [The 555!](../../Groups/555.md), 6b6t's biggest active clan
+- Became co-owner of [The 555!](../Groups/555.md), 6b6t's biggest active clan
 - Created Endless Inventories (unreleased)
 - Betrayed 555 and created Art. 461
 

@@ -2,7 +2,7 @@
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
+// See: https://docusaurus.io/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
 
@@ -53,7 +53,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`;
+            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,

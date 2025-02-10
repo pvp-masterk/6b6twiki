@@ -17,7 +17,7 @@ tags:
 * January 18th, 2022
 
 ## Accomplishments
-- Discovered 6 dupes with [vined_](/docs/Players/vined_.md)
+- Discovered 6 dupes with [vined_](./Players/vined_.md)
 - Discovered the boat dupe and chunk dupe.
 - Developer of IKEA addon.
 - Discovered Folia crash exploit

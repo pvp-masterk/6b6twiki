@@ -39,9 +39,9 @@ tags:
 - [[28st](../Players/28st.md)](../Players/[28st](../Players/28st.md).md) (Founder)
 - kokos_odpadnem (Founder)
 - schmiddie (Founder)
-- [CapyKing10](../Players/Less%20Relevant%20Players/capy.md) (Leader)
+- [CapyKing10](../Players//capy.md) (Leader)
 - [myniany](../Players/myniany.md) (Leader)
-- [lil__perp](/docs/Players/lilperp.md) (leader)
+- [lil__perp](./Players/lilperp.md) (leader)
 - ByroBuff (leader)
 - aodrael (leader)
 - [scarthebest1943](../Players/scar.md) (leader)
@@ -50,16 +50,16 @@ tags:
 - Backup_Inventory (Mod)
 - Rozen (Mod)
 - audsis (higher member)
-- [vined_](/docs/Players/vined.md) (higher member)
+- [vined_](./Players/vined.md) (higher member)
 - femboy (higher member)
 - jajo341 (member)
 - wiesiupvp (member)
-- [c1yd3i](/docs/Players/clyde.md) (member)
+- [c1yd3i](./Players/clyde.md) (member)
 - TheJTnoob (member)
 - TheTroll2001 (THE chatter)
 
 ## Downfall of 1.12.2 Shulkergang
-> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when [28st](../Players/28st.md) decided to make a vote to get a new leader in Shulkergang. The two options were either Price or [lil__perp](/docs/Players/lilperp.md). He also mentioned that the loser would be co-leader. [lil__perp](/docs/Players/lilperp.md) won the vote, making Price the new co-leader. It later turned out lil perp and schmiddie made an agreement to kicking kokos_odpadnem for an unknown reason. When they asked [28st](../Players/28st.md) to kick kokos from the group, he wanted to find a peaceful way to fix this. Because of this, [lil__perp](/docs/Players/lilperp.md), audsis, wiesiupvp and [vined_](/docs/Players/vined.md) made a group, and nuked shulkergang. Shulkergang had 900 members at the time, and the nuking resulted in its death.
+> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when [28st](../Players/28st.md) decided to make a vote to get a new leader in Shulkergang. The two options were either Price or [lil__perp](./Players/lilperp.md). He also mentioned that the loser would be co-leader. [lil__perp](./Players/lilperp.md) won the vote, making Price the new co-leader. It later turned out lil perp and schmiddie made an agreement to kicking kokos_odpadnem for an unknown reason. When they asked [28st](../Players/28st.md) to kick kokos from the group, he wanted to find a peaceful way to fix this. Because of this, [lil__perp](./Players/lilperp.md), audsis, wiesiupvp and [vined_](./Players/vined.md) made a group, and nuked shulkergang. Shulkergang had 900 members at the time, and the nuking resulted in its death.
 
 ## Downfall of 1.19 Shulkergang
 > 10/20/23: [28st](../Players/28st.md) kicks bd71legend one of the leaders of sg blaming him for making everyone a enemy of shulkergang and using the members for his own sake. After that [28st](../Players/28st.md) appointed two new leaders: [scar](../Players/scar.md) and aodrael.

@@ -16,11 +16,11 @@ https://el.namemc.com/skin/6fe8ded16290fbdc
 
 ## Clans
 - The Lineage [Current]
-- Former: Trinity [Insided]
-- Former: Rapture [Insided]
-- Former: Tesseract [Insided]
-- Former: Sheruk Shop [Insided, later doxxed the owner of.]
-- Former: Pepsi Clan [Left]
-- Former: Mischief [Disbanded]
-- Former: Saturn Shop [Inactive // Disbanded]
+- Trinity [Insided]
+- Rapture [Insided]
+- Tesseract [Insided]
+- Sheruk Shop [Insided, later doxxed the owner of.]
+- Pepsi Clan [Left]
+- Mischief [Disbanded]
+- Saturn Shop [Inactive // Disbanded]
   

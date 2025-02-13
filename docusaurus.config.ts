@@ -90,7 +90,6 @@ const config = {
         src: 'img/icons/logo.jpg',
       },
       items: [
-        { to: '/', label: 'Wiki', position: 'left' },
         {
           href: 'https://github.com/Advik555wastaken/6b6twiki/',
           label: 'GitHub',
@@ -105,7 +104,7 @@ const config = {
           title: 'Useful links',
           items: [
             {
-              label: '6b6t.org Official Website',
+              label: 'Official 6b6t.org Website',
               to: 'https://www.6b6t.org/',
             },
             {
@@ -120,12 +119,7 @@ const config = {
             {
               label: 'Discord',
               href: 'https://discord.gg/Em4AAcjXvD',
-            },
-            {
-              href: 'https://github.com/Advik555wastaken/6b6twiki/',
-              label: 'GitHub',
-              position: 'right',
-            },
+            }
           ],
         }
       ],

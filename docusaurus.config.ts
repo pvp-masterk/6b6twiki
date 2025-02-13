@@ -23,7 +23,6 @@ const config = {
   organizationName: '6b6t', // Usually your GitHub org/user name.
   projectName: '6b6t-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'warn', // advik here this was buggin me cause i tend to link nonexistent sites to show a page or like a placeholder
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set

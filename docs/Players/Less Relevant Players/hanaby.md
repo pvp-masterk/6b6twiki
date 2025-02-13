@@ -12,7 +12,7 @@
 - Insided 3 teams including: Trinity, Rapture, Tesseract
 
 ## Skin
-https://el.namemc.com/skin/6fe8ded16290fbdc
+![Skin](https://s.namemc.com/3d/skin/body.png?id=6fe8ded16290fbdc&model=slim&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
 - The Lineage [Current]

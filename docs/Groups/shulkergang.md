@@ -41,7 +41,7 @@ tags:
 - schmiddie (Founder)
 - [CapyKing10](../Players//capy.md) (Leader)
 - [myniany](../Players/myniany.md) (Leader)
-- [lil__perp](./Players/lilperp.md) (leader)
+- [lil__perp](../Players/lilperp.md) (leader)
 - ByroBuff (leader)
 - aodrael (leader)
 - [scarthebest1943](../Players/scar.md) (leader)
@@ -50,16 +50,16 @@ tags:
 - Backup_Inventory (Mod)
 - Rozen (Mod)
 - audsis (higher member)
-- [vined_](./Players/vined.md) (higher member)
+- [vined_](../Players/vined.md) (higher member)
 - femboy (higher member)
 - jajo341 (member)
 - wiesiupvp (member)
-- [c1yd3i](./Players/clyde.md) (member)
+- [c1yd3i](../Players/clyde.md) (member)
 - TheJTnoob (member)
 - TheTroll2001 (THE chatter)
 
 ## Downfall of 1.12.2 Shulkergang
-> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when [28st](../Players/28st.md) decided to make a vote to get a new leader in Shulkergang. The two options were either Price or [lil__perp](./Players/lilperp.md). He also mentioned that the loser would be co-leader. [lil__perp](./Players/lilperp.md) won the vote, making Price the new co-leader. It later turned out lil perp and schmiddie made an agreement to kicking kokos_odpadnem for an unknown reason. When they asked [28st](../Players/28st.md) to kick kokos from the group, he wanted to find a peaceful way to fix this. Because of this, [lil__perp](./Players/lilperp.md), audsis, wiesiupvp and [vined_](./Players/vined.md) made a group, and nuked shulkergang. Shulkergang had 900 members at the time, and the nuking resulted in its death.
+> The Downfall of 1.12.2 Shulkergang started when Shulkergang 2 was constructed. Thats when [28st](../Players/28st.md) decided to make a vote to get a new leader in Shulkergang. The two options were either Price or [lil__perp](../Players/lilperp.md). He also mentioned that the loser would be co-leader. [lil__perp](../Players/lilperp.md) won the vote, making Price the new co-leader. It later turned out lil perp and schmiddie made an agreement to kicking kokos_odpadnem for an unknown reason. When they asked [28st](../Players/28st.md) to kick kokos from the group, he wanted to find a peaceful way to fix this. Because of this, [lil__perp](../Players/lilperp.md), audsis, wiesiupvp and [vined_](../Players/vined.md) made a group, and nuked shulkergang. Shulkergang had 900 members at the time, and the nuking resulted in its death.
 
 ## Downfall of 1.19 Shulkergang
 > 10/20/23: [28st](../Players/28st.md) kicks bd71legend one of the leaders of sg blaming him for making everyone a enemy of shulkergang and using the members for his own sake. After that [28st](../Players/28st.md) appointed two new leaders: [scar](../Players/scar.md) and aodrael.
@@ -80,7 +80,7 @@ tags:
 > Some members started moving to different servers like [alacity](../MCServers/alacity.md) and some joined donfuer 6b6t.
 
 ## Resurrection
-> 2 months after bd71legend and the imperials griefed the main bases, [CapyKing10](../Players/Less%20Relevant%20Players/capy.md) and [xiNxghtMar3ix](../Players/nxght.md) which are both leaders in Shulkergang on 6b6t and ToyotaT100 on [8b8t](../MCServers/8b8t.md) contacted the members and other leaders of the two groups about making a new group on [alacity](../MCServers/alacity.md) and set up a groupchat. In that groupchat they decided that they were gonna take element from each group and implement them into the new group.
+> 2 months after bd71legend and the imperials griefed the main bases, [CapyKing10](../Players/capy.md) and [xiNxghtMar3ix](../Players/nxght.md) which are both leaders in Shulkergang on 6b6t and ToyotaT100 on [8b8t](../MCServers/8b8t.md) contacted the members and other leaders of the two groups about making a new group on [alacity](../MCServers/alacity.md) and set up a groupchat. In that groupchat they decided that they were gonna take element from each group and implement them into the new group.
 
 > SG X TY was the first name of the group, the names were seperated (SG standing for shulkergang and TY for toyota). After aodrael suddenly deleted the discord a new one was made by [xiNxghtMar3ix](../Players/nxght.md) which was called TSG (Toyota Shulkergang). From then on the name stood and TSG went on to became one of the most know groups on [alacity](../MCServers/alacity.md). 
 

@@ -67,7 +67,7 @@ tags:
 * youknowmyalt
 
 ## Accomplishments
-- Founder of The [555](https://6b6t-wiki.vercel.app/Groups/555)
+- Founder of [The 555](../Groups/555)
 - Flown 46+ million blocks on the server
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work (555.1 dupe)
 - Found a restart dupe named 555.2 dupe

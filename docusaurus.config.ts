@@ -52,7 +52,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/${docPath}`;
+            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,

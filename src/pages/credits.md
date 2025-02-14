@@ -5,14 +5,14 @@ title: 6b6t wiki Credits
 # Credits
 See all contributors on the [GitHub](https://github.com/Advik555wastaken/6b6twiki/graphs/contributors) repository
 
-* **[North](../../docs/Players/North)**:
+* **[North](https://6b6t-wiki.vercel.app/Players/North)**:
   * Idea man
   * Discord: `nerdsinc`
-* **[Advik](../../docs/Players/Advik555)**:
+* **[Advik](https://6b6t-wiki.vercel.app/Players/Advik555)**:
   * Idea man
   * Discord: `_advik555`
   * Github: https://github.com/Advik555wastaken
-* **[Capy](../../docs/Players/capy.md)**:
+* **[Capy](https://6b6t-wiki.vercel.app/Players/capy)**:
   * Idea man
   * Wiki Writer
   * Discord: `capyking10`

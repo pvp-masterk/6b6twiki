@@ -25,7 +25,7 @@ tags:
 * [NameMC](https://namemc.com/profile/CapyKing10.1)
 
 ## Joindate
-* March 25th, 2023. 
+* March 25th, 2023.
 
 ## Accomplishments
 * Built 555 bedrock logos at spawn (screenshots can be found in [The 555's discord server](https://dsc.gg/the555))

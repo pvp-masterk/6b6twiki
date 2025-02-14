@@ -33,14 +33,12 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [
-    [
-      "vercel-analytics",
-      {
-        debug: true,
-        mode: 'auto',
-      },
-    ],
+  scripts: [
+    {
+      src: "https://cloud.umami.is/script.js",
+      defer: true,
+      "data-website-id":"eee3aa88-775d-4f0e-8b34-e9b43de8225e"
+    }
   ],
 
   presets: [

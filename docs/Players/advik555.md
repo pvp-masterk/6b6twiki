@@ -27,7 +27,6 @@ tags:
 * ._0
 * 321kivda
 * 8b8t.org
-* _Minh2008
 * ABCDEFGHKLMNOP
 * advik213
 * Adick555

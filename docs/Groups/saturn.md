@@ -26,6 +26,7 @@ tags:
 - Creating a megabase with 20~ members having access to it for multiple months before getting self-griefed
 - Hosting a pvp tournament with said base members for ranks
 - Creating multiple maparts (1x1, 2x2, 3x3)
+- Ending various new clans (JaponAce, Zealandia)
 - Co-founding Neverdies client
 
 ## Bases
@@ -60,3 +61,20 @@ tags:
 
 ## Lambda 2025
 > Lambda was a attempted revival of Saturn in february 2025 but with the additional owners **bd71legend**, **mortex** and all-members of what used to be Saturn Empire, but it died after **Fulgur** decided to grief Lambda Base and Saturn Main Stash leading the clan's discord to be deleted by **Aze** due to all of it's progress in the past few years being destroyed.
+
+## Logo / Banner
+![logo](../../static/img/groups/saturn/logo.jpg)
+
+## Gallery
+Renders of the core builds at Saturn Main Base
+![render](../../static/img/groups/saturn/saturn_render.png)
+![render](../../static/img/groups/saturn/saturn_render2.png)
+
+Screenshots
+![a saturn stash](../../static/img/groups/saturn/Screenshot_2023-06-18_013259.png)
+![eiffel tower](../../static/img/groups/saturn/Screenshot_2023-07-13_211329.png)
+
+Self griefs
+![end recruit base](../../static/img/groups/saturn/Screenshot_2023-08-07_214324.png)
+![aircraft carrier at main base](../../static/img/groups/saturn/Screenshot_2023-07-14_152630.png)
+![american flag at main base](../../static/img/groups/saturn/Screenshot_2023-08-07_221213.png)

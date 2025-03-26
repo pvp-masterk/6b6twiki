@@ -66,15 +66,16 @@ tags:
 ![logo](../../static/img/groups/saturn/logo.jpg)
 
 ## Gallery
-Renders of the core builds at Saturn Main Base
+### Core build renders
+Renders of the core builds at Saturn Main Base  
 ![render](../../static/img/groups/saturn/render_1.png)
 ![render](../../static/img/groups/saturn/render_2.png)
 
-Screenshots
+### Screenshots
 ![a saturn stash](../../static/img/groups/saturn/stash.png)
 ![eiffel tower](../../static/img/groups/saturn/eiffel_build.png)
 
-Self griefs
+### Self griefs
 ![end recruit base](../../static/img/groups/saturn/self_grief_1.png)
 ![aircraft carrier at main base](../../static/img/groups/saturn/iron_build.png)
 ![american flag at main base](../../static/img/groups/saturn/self_grief_1.png)

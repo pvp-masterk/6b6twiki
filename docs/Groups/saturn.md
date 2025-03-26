@@ -67,14 +67,14 @@ tags:
 
 ## Gallery
 Renders of the core builds at Saturn Main Base
-![render](../../static/img/groups/saturn/saturn_render.png)
-![render](../../static/img/groups/saturn/saturn_render2.png)
+![render](../../static/img/groups/saturn/render_1.png)
+![render](../../static/img/groups/saturn/render_2.png)
 
 Screenshots
-![a saturn stash](../../static/img/groups/saturn/Screenshot_2023-06-18_013259.png)
-![eiffel tower](../../static/img/groups/saturn/Screenshot_2023-07-13_211329.png)
+![a saturn stash](../../static/img/groups/saturn/stash.png)
+![eiffel tower](../../static/img/groups/saturn/eiffel_build.png)
 
 Self griefs
-![end recruit base](../../static/img/groups/saturn/Screenshot_2023-08-07_214324.png)
-![aircraft carrier at main base](../../static/img/groups/saturn/Screenshot_2023-07-14_152630.png)
-![american flag at main base](../../static/img/groups/saturn/Screenshot_2023-08-07_221213.png)
+![end recruit base](../../static/img/groups/saturn/self_grief_1.png)
+![aircraft carrier at main base](../../static/img/groups/saturn/iron_build.png)
+![american flag at main base](../../static/img/groups/saturn/self_grief_1.png)

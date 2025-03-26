@@ -23,7 +23,7 @@ tags:
 
 **Screenshot of Unfinished Hive Halloween**
 
-![Hive Halloween](../../static/img/groups/The%20Hive/halloween2.png)
+![Hive Halloween](../../static/img/groups/the%20hive/halloween2.png)
 
 ## Accomplishments
 - Built a megabase called Hive 2!
@@ -54,4 +54,4 @@ tags:
 - Sharedlines (builder)
 
 ## Logo / Banner:
-![logo](../../static/img/groups/The%20Hive/logo.png)
+![logo](../../static/img/groups/the%20hive/logo.png)

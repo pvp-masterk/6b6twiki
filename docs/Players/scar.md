@@ -50,7 +50,7 @@ tags:
 * 6b6t Collectables
 * 6b6t times
 * DonFuer 6b6t
-* [Project 104](../Groups/104.md)
+* [104](../Groups/104.md)
 
 ## Inactive Groups
 * Exodus (Disbanded)

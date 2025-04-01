@@ -38,8 +38,6 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b4af04a914e761ee&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-* [The 555](../Groups/555.md)
 * 6b6t times (news reporter)
-* Anti-imperials
-* Not project 104n't
+* 461
 * Endless inventories

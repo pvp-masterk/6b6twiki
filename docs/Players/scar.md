@@ -36,7 +36,7 @@ tags:
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to Folia software
 * Discovered a boat fly bypass (Currently not public)
 * Discovered a lag exploit
-* Insided a lot of clans/groups (most of the time ended up griefing their bases)
+* Insided a lot of clans
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=dd1b53c1fb347121&model=classic&theta=30&phi=21&time=90&width=100&height=200)

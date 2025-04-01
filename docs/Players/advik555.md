@@ -10,7 +10,7 @@ tags:
 # `Advik555`
 
 ## Identity
-* Full username: advik555
+* Full username: Advik555
 * Mainly goes by: advik
 
 ## Contacts:
@@ -70,21 +70,20 @@ tags:
 - Flown 46+ million blocks on the server
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work (555.1 dupe)
 - Found a restart dupe named 555.2 dupe
-- Placed over 1 million obsidian blocks on the server
+- Placed over 3 million obsidian blocks on the server
 - Created a 15,000x15,000 map of 6b6t spawn
 - Created the 6b6t wiki
-- The oldest player that continues to be extremly active on the server
+- The oldest high-activity player
 - Discovered the /name exploit (AKA white name exploit)
 - Discovered 120 BPS+ elytra fly config
+- Griefed many many clans
+- Insided multiple large and small groups
+- Completely destroyed many groups against 555
 
 ## Clans
 - [555](../Groups/555.md)
-- DonFuer 6b6t
-- Imperials' 6b6t branch
-- Mapart Empire (otherwise known as The Hentai Empire)
-- Cumgang
-- The Legion
-- Military
+- [104](../Groups/104.md)
+
 
 ### Previous clans
 - Cheese clan (*died*)
@@ -92,8 +91,10 @@ tags:
 - Exodus (*died*)
 - The Legion (*died*)
 - GGG (*kicked out then group disbanded*)
-- 6b6t times (*previously a reporter but then died*)
-- Tesseract (*kicked out then group disbanded*)
+- Tesseract (*insided then group disbanded*)
+- Cumgang (*died*)
+- Imperials (*Became inactive in group*)
+- Donfuer (*died*)
 
 ## Skin
 [mossy cobblestone steve](https://www.planetminecraft.com/skin/mossy-cobblestone-steve-trailer-steve/)

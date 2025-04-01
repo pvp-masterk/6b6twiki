@@ -38,18 +38,18 @@ As mentioned above, Saviors had some massive good looking bases such as:
 
 ## Notable Members
 - Iced_Cave (founder)
-- Wavybody ( saviors leader and crystal PVP'r
+- Wavybody (saviors leader and crystal PvPer)
 - Vertrica08 (saviors leader and greifer)
 - Elotion (saviors high council member and greifer)
 - BeamyTerror9531 (saviors high council member and builder)
 - CaT_345 (saviors member)
 - Aitana (saviors last owner, after iced quit due to greifs.)
 - Maccatackz (saviors member and builder)
-- PaxGreifs (Saviors trusted recruit who played a huge role in getting the discord to 1000members using many bots)
+- PaxGreifs (Saviors trusted recruit who played a huge role in getting the discord to 1000 members using many bots)
 - ryk_cbaool (saviors trusted recruit who also played a huge role in getting the discord to 1000 members using bots)
 - lava67 (saviors recruit who planned building megabase but saviors got destroyed before it could happen)
 - AddEdit (saviors recruit who helped alot in recruitbase by building and artist)
-- Hekt0r44566 ( saviors trusted recruit, insided 555 and leaked 15k dubstash, builder, created automatic delivery bot that was never used due to saviors getting destroyed, and played a huge role in getting the discord to 1000 members)
+- Hekt0r44566 (saviors trusted recruit, insided 555 and leaked 15k dubstash, builder, created automatic delivery bot that was never used due to saviors getting destroyed, and played a huge role in getting the discord to 1000 members)
 ## Recent History
-Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until 18th of December, where 104 went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they managed to grief 2 massive 555 stashes. Saviors was getting a massive influx of members and interest. They countinued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025  EVERY  saviors base was greifed, by 555 and 104, currently it is not known exactly how but many point towards one of the high council being an insider. This led to the deletion of saviors discord.
+Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until 18th of December, where 104 went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they managed to grief 2 555 bases. Saviors was getting a massive influx of members and interest. They countinued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025  EVERY  saviors base was greifed, by 555 and 104, currently it is not known exactly how but many point towards one of the high council being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana.
   

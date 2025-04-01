@@ -33,9 +33,9 @@ tags:
 ## Accomplishments
 - Most player kills (2,408,921 kills on account **vined_** as of 1/5/2024)
 - Most deaths (1,981,375 deaths on account **vined_on_top** as of 1/5/2024)
-- Discovered 6 dupes with [**hokindo9000**](./hokindo9000.md) called IKEA dupes:
-  - [*Boat chest dupe*](https://www.youtube.com/watch?v=ubI4pJ35Gvk)
-  - *Chunk dupe*
+- Discovered 6 dupes with [**hokindo9000**](./hokindo9000.md) called IKEA dupes (non exhaustive list)
+  - [Boat chest dupe](https://www.youtube.com/watch?v=ubI4pJ35Gvk)
+  - *hunk dupe
 
 - Coded most of the boat chest dupe auto modules and is a developer of the [IKEA Addon](https://github.com/Nooniboi/Public-Ikea)
 - Owns the largest 6b6t bot (6b6t Stats, 67 servers) and created the largest database of player messages, joins, and leaves, using the in-game account **kazwqi**

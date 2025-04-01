@@ -8,7 +8,7 @@ tags:
 
 ## Identity
 * Name: Adr14n0
-* Mainly goes by: Adrian
+* Mainly goes by: adriano
 * Discord: adr14n0
 * [NameMC](https://namemc.com/profile/Adr14n0.2)
 

@@ -1,17 +1,17 @@
 ---
 sidebar_position: 5
-sidebar_label: 'CapyKing10'
-title: 'CapyKing10'
+sidebar_label: 'Mapper'
+title: 'Mapper'
 tags:
   - Player
   - Contributor
 ---
 
-# `CapyKing10`
+# `Mapper`
 
 ## Identity
-* Formal name: CapyKing10
-* Mainly goes by: Capy
+* Formal name: TheMapper
+* Mainly goes by: Mapper, Durk
 * In game usernames
   * DuhDeadlyDurk
   * The_Mapper
@@ -20,9 +20,7 @@ tags:
   * abudhabifan
 
 ## Contacts
-* Discord: `capyking10.`
-* [YouTube](https://www.youtube.com/@CapyKing10_)
-* [NameMC](https://namemc.com/profile/CapyKing10.1)
+* Discord: `mapper461`
 
 ## Joindate
 * March 25th, 2023.
@@ -30,10 +28,11 @@ tags:
 ## Accomplishments
 * Built 555 bedrock logos at spawn (screenshots can be found in [The 555's discord server](https://dsc.gg/the555))
 * Created anti-imperials (got nuked)
-* Became co-owner of the 555
+* Previous owner of 555, failed to nuke
 * Created endless inventories
 * created a spawn ocean in the summer of 2022
-* Blew up akit if stuff at spawn
+* Attempted to grief spawn
+* Used to own 461
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b4af04a914e761ee&model=classic&theta=30&phi=21&time=90&width=100&height=200)

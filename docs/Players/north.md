@@ -23,7 +23,7 @@ tags:
 ## Accomplishments
 * Winning the 2023 Christmas mapart competition
 * Having the largest map collection on the server (as of 29/4/2024)
-* Self proclaimed best mapart maker on 6b6t
+* One of the most expierenced players working with maparts
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=8ba3245f351fe11b&model=slim&theta=30&phi=21&time=90&width=100&height=200)

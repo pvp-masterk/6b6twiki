@@ -22,7 +22,7 @@ tags:
 - Reaching 1000 discord members prior to its deletion
 
 ## Bases
-As mentioned above, Saviors had some massive good looking bases such as:
+As mentioned above, Saviors had some good looking bases such as:
 - Saviors Main Base space valk ![2025-02-05_20 15 14](https://github.com/user-attachments/assets/93bdc266-ebee-43db-a68e-800e7bb92e76)![2025-02-08_13 41 43](https://github.com/user-attachments/assets/82984941-2f39-4380-bf15-d6b7caa74c76)
 
 

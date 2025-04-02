@@ -1,43 +1,37 @@
 ---
 sidebar_position: 5
-sidebar_label: 'Mapper'
-title: 'Mapper'
+sidebar_label: 'CapyKing10'
+title: 'CapyKing10'
 tags:
   - Player
   - Contributor
 ---
 
-# `Mapper`
+# `CapyKing10`
 
 ## Identity
-* Formal name: TheMapper
-* Mainly goes by: Mapper, Durk
-* In game usernames
-  * DuhDeadlyDurk
-  * The_Mapper
-  * justmedurk
-  * itsmedurk
-  * abudhabifan
+* Formal name: CapyKing10
+* Mainly goes by: Capy
 
 ## Contacts
-* Discord: `mapper461`
+* Discord: `capyking10.`
+* [YouTube](https://www.youtube.com/@CapyKing10_)
+* [NameMC](https://namemc.com/profile/CapyKing10.1)
 
 ## Joindate
 * March 25th, 2023.
 
-## Accomplishments
-* Built 555 bedrock logos at spawn (screenshots can be found in [The 555's discord server](https://dsc.gg/the555))
-* Created anti-imperials (got nuked)
-* Previous owner of 555, failed to nuke
-* Created endless inventories
-* created a spawn ocean in the summer of 2022
-* Attempted to grief spawn
-* Used to own 461
+## Acomplishments
+ * Made a lot of 6b6t videos (Mostly griefing)
+ * Contributed to the largest mapart in the server!
+ * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h
+ * Won multiple building competitions with his group IronVale.
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=b4af04a914e761ee&model=classic&theta=30&phi=21&time=90&width=100&height=200)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=38&phi=13&time=90&width=100&height=200)
 
 ## Clans
+* [The 555](../Groups/555.md)
 * 6b6t times (news reporter)
-* 461
-* Endless inventories
+* Shulkergang
+* The Hive

@@ -76,9 +76,7 @@ tags:
 - The oldest high-activity player
 - Discovered the /name exploit (AKA white name exploit)
 - Discovered 120 BPS+ elytra fly config
-- Griefed many many clans
-- Insided multiple large and small groups
-- Completely destroyed many groups against 555
+- Griefed and insided a very large amount of clans, especially those against 555
 
 ## Clans
 - [555](../Groups/555.md)

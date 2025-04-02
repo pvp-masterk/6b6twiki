@@ -20,57 +20,19 @@ tags:
 ## Minecraft Account List
 * Advik123 (main account)
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
-* [_Advik555](https://namemc.com/_Advik555)
+* [_Advik555](https://namemc.com/_Advik555) (old premium account)
+* ........_....... (rare username due to .s no longer allowed in usernames except for the start)
+* 8b8t.org (rare username due to .s no longer allowed in usernames except for the start)
+* youknowmyalt (old main)
 
-ㅤ
-* ........_.......
-* ._0
-* 321kivda
-* 8b8t.org
-* ABCDEFGHKLMNOP
-* advik213
-* Adick555
-* Advik000
-* Advik1000
-* Advik111
-* Advik222
-* Advik333
-* advik555
-* Advik55S
-* Advik5SS
-* Advik777
-* advikbot
-* advikbot
-* Advikl23
-* AdvikS55
-* AdvikSS5
-* AdvikSSS
-* Angelvik555
-* DuhDeadlyDirk
-* elf_bitchard
-* Firtree1000
-* karnage4556
-* kivda321
-* kivda555
-* kokos_odpandem_
-* paseuta
-* patosogamar
-* patosogamero
-* QuaintBeast9600
-* Quebastie
-* rootbear20
-* scarelmejor1943
-* seasnail413
-* T1ger97
-* thansanlo
-* youknowmyalt
+* this user has an extensive account list that can be viewed [here](https://pastebin.com/2MAHm4yA)
 
 ## Accomplishments
 - Founder of [The 555](../Groups/555)
-- Flown 46+ million blocks on the server
+- Flown more than 46 million blocks on the server
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work (555.1 dupe)
 - Found a restart dupe named 555.2 dupe
-- Placed over 3 million obsidian blocks on the server
+- Placed over  million obsidian blocks on the server
 - Created a 15,000x15,000 map of 6b6t spawn
 - Created the 6b6t wiki
 - The oldest high-activity player

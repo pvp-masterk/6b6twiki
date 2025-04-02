@@ -11,7 +11,7 @@ tags:
 ## Discord (Private discord, made public by Aitana):
 * `discord.gg/XJ9G7kHcra`
 ## Founding information
-* Founding date: Unknown
+* Founding date: mid 2024
 * Founded by: 
   * patosogamer
   * PollyNeedCrack

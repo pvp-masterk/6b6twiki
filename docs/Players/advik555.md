@@ -21,8 +21,8 @@ tags:
 * Advik123 (main account)
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
 * [_Advik555](https://namemc.com/_Advik555) (old premium account)
-* ........_....... (rare username due to .s no longer allowed in usernames except for the start)
-* 8b8t.org (rare username due to .s no longer allowed in usernames except for the start)
+* ........_.......
+* 8b8t.org
 * youknowmyalt (old main)
 
 * this user has an extensive account list that can be viewed [here](https://pastebin.com/2MAHm4yA)

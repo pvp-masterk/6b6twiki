@@ -44,6 +44,17 @@ tags:
 - [555](../Groups/555.md)
 - [104](../Groups/104.md)
 
+## Clans insided
+- afk
+- tesseract/saviors
+- anti 555 (mudl)
+- inferno
+- shulkergang
+- melon clan
+- a5/111
+- 461/666
+- 7th day/777
+- the glorious empire
 
 ### Previous clans
 - Cheese clan (*died*)

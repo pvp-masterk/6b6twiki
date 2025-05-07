@@ -8,7 +8,7 @@ tags:
 * Full name: `Saviors` 
 ## Discord (no longer exists):
 * `discord.gg/saviors`
-## Discord (Private discord, made public by Aitana):
+## Discord (Private discord, made public by Aitana aka etienne200296):
 * `discord.gg/XJ9G7kHcra`
 ## Founding information
 * Founding date: mid 2024
@@ -43,7 +43,7 @@ Saviors was in its top form around late 2024, there was an influx of players aro
 
 However players from 555 discovered that saviors were secretely building a very large spawn logo and completely griefed the logo using a little help from 104 and thm (this later created the group owned by Advik555 now known as "Air Destroyers"
 
-They continued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025 EVERY saviors base was greifed, by 555/104, currently it is not known exactly how but many point towards one of the high council members being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana.
+They continued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025 EVERY saviors base was greifed, by 555/104, currently it is not known exactly how but many point towards one of the high council members being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana (etienne200296).
 
 
 ## Bases
@@ -70,7 +70,7 @@ As mentioned above, Saviors had some good looking bases such as:
 - Elotion (saviors high council member and greifer)
 - BeamyTerror9531 (saviors high council member and builder)
 - CaT_345 (saviors member)
-- Aitana (saviors last owner, after iced quit due to greifs.)
+- Aitana (etienne200296) (saviors last owner, after iced quit due to greifs.)
 - Maccatackz (saviors member and builder)
 - PaxGreifs (Saviors trusted recruit who played a huge role in getting the discord to 1000 members using many bots)
 - ryk_cbaool (saviors trusted recruit who also played a huge role in getting the discord to 1000 members using bots)
@@ -78,5 +78,5 @@ As mentioned above, Saviors had some good looking bases such as:
 - AddEdit (saviors recruit who helped alot in recruitbase by building and artist)
 - Hekt0r44566 (saviors trusted recruit, insided 555 and leaked 15k dubstash, builder, created automatic delivery bot that was never used due to saviors getting destroyed, and played a huge role in getting the discord to 1000 members)
 ## Recent History
-Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until 18th of December, where 104 went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they managed to grief 2 555 bases. Saviors was getting a massive influx of members and interest. They countinued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025  EVERY  saviors base was greifed, by 555 and 104, currently it is not known exactly how but many point towards one of the high council being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana.
+Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until 18th of December, where 104 went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they managed to grief 2 555 bases. Saviors was getting a massive influx of members and interest. They countinued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025  EVERY  saviors base was greifed, by 555 and 104, currently it is not known exactly how but many point towards one of the high council being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana (etienne200296).
   

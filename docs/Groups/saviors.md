@@ -72,6 +72,7 @@ As mentioned above, Saviors had some good looking bases such as:
 - CaT_345 (saviors member)
 - Aitana (etienne200296) (saviors last owner, after iced quit due to greifs.)
 - Maccatackz (saviors member and builder)
+- MeganByte_ (Saviors Member And Builder, created the schems for the original obby spawn logo for the group, her build at the recruit base inspired the creation of the Japanese base)
 - PaxGreifs (Saviors trusted recruit who played a huge role in getting the discord to 1000 members using many bots)
 - ryk_cbaool (saviors trusted recruit who also played a huge role in getting the discord to 1000 members using bots)
 - lava67 (saviors recruit who planned building megabase but saviors got destroyed before it could happen)

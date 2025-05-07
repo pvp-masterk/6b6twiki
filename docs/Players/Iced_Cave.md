@@ -15,6 +15,9 @@ tags:
 ## Contacts
 * Discord: `ic3d_Cave`
 
+## Join Date
+* 6/5/2022
+
 ## Minecraft Account list
 * [`Iced_Cave`](https://namemc.com/profile/Iced_Cave.2)
 
@@ -29,8 +32,7 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=11e0c35a9c2f8c68&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
-* Saviors (Disbanded)
+* Saviors 
 * Tesseract (Disbanded)
 * Tesseract (second one) (Disbanded)
-* CDC (Disbanded)
 * Eclipse (Disbanded)

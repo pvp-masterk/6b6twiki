@@ -33,7 +33,7 @@ Tesseract members/leaders went on with playing 6b6t as they normally would for t
 
 By this time Tesseract leaders and members were fed up with [555](https://6b6t-wiki.vercel.app/groups/555) and [104](https://6b6t-wiki.vercel.app/Groups/104) griefing them constantly, and the bad publicity they were receiving so in a attempt to start on a clean slate they rebranded to Eclipse, which also ended up being griefed in just over a month with [scarthebest1943](https://placeholder.org) making this [video](https://youtu.be/cweJk6zupDY?si=uuDQTVaEEu4M36kC)
 
-Tesseract then thought it was going to be a good idea switching back to their second name "Tesseract" which also didn't end well with [104](https://6b6t-wiki.vercel.app/Groups/104 griefing them again on one of their member's accounts known as KeprisNexus. scarthebest1943 then uploaded this [video](https://youtu.be/YORdPtE0aN0?si=pd_XpCzLZMYj0_CV).
+Tesseract then thought it was going to be a good idea switching back to their second name "Tesseract" which also didn't end well with [104](https://6b6t-wiki.vercel.app/Groups/104) griefing them again on one of their member's accounts known as KeprisNexus. scarthebest1943 then uploaded this [video](https://youtu.be/YORdPtE0aN0?si=pd_XpCzLZMYj0_CV).
 
 Tesseract then continued to play normally hoping that they wouldn't be griefed again but to their surprise in just under a month all of their bases and stashes were griefed once again, with their discord also being nuked. hokindo9000 then edited the 5th tesseract [video](https://youtu.be/b5GKXLeJRis?si=eYCKsArLkHNHMtZv)
 

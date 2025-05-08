@@ -21,7 +21,6 @@ tags:
 * Founded Trilogy
 
 ## Clans
-* Colonizadores
 * Eclipse
 * TSR
 * Trilogy (founder)

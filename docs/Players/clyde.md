@@ -1,5 +1,4 @@
 ---
-sidebar_position: 9
 sidebar_label: 'c1yd3i'
 title: 'c1yd3i'
 tags:

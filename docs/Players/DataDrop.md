@@ -1,5 +1,4 @@
 ---
-sidebar_position: 19
 sidebar_label: 'Datadrop'
 title: 'Datadrop'
 tags:
@@ -20,7 +19,6 @@ tags:
 ## Accomplishments
 * Leader Of Tesseract
 * Created CDC
-* Griefed Some Bases Excatly Who Is Unknown
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b4ac8f2417556db7&model=slim&width=256&height=256)

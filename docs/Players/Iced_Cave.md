@@ -1,5 +1,4 @@
 ---
-sidebar_position: 10
 sidebar_label: 'Iced_Cave'
 title: 'Iced_cave'
 tags:
@@ -22,11 +21,8 @@ tags:
 * [`Iced_Cave`](https://namemc.com/profile/Iced_Cave.2)
 
 ## Accomplishments
-* founder of Saviors, Tesseract (the second one), Eclipse
-* Interacted with a lot of the community
-* griefed a few clans/people
-* built bases for 6b6t build comps
-* ran a youtube channel for saviors in which he showcased bases using cinematic mods
+* founder of Saviors, Tesseract (the second one) and Eclipse
+* Built bases for 6b6t build compilations
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=11e0c35a9c2f8c68&model=classic&theta=30&phi=21&time=90&width=100&height=200)

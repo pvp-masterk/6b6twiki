@@ -1,5 +1,4 @@
 ---
-sidebar_position: 21
 sidebar_label: 'etienne200296'
 title: 'etienne200296'
 tags:
@@ -24,6 +23,9 @@ tags:
 * Is a official spanish mod on the 6b6t discord
 * Deleted the saviors discord and gave all bases to 555
 * Has been a part of many bases and done many builds
+* Is A Official Spanish Mod On The 6b6t Discord
+* Deleted The Saviors Discord And Gave All Bases To 555
+* Has Been A Part Of Many Bases And Done Many Builds
 
 
 
@@ -46,4 +48,3 @@ tags:
 ![midevilbase](../../static/img/players/etienne200296/midevil_base.png)
 ![midevilbase2](../../static/img/players/etienne200296/midevilbase_2.png)
 ![tsrbase](../../static/img/players/etienne200296/tsr_base.png)
-

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 20
 sidebar_label: 'ZenDark'
 title: 'ZenDark'
 tags:
@@ -21,10 +20,8 @@ tags:
 * Around 4 Years Ago (Exact Date Unknown :< )
 
 ## Accomplishments
-* Founded Colo (First Clan He Founded)
+* Founded Colonizadores (First Clan He Founded)
 * Founded Triology
-* Has Been On The Server For A Very Long Time
-* Has Made Many Builds And Dupe Stashs 
 
 ## Clans 
 * Eclipse 
@@ -45,4 +42,8 @@ tags:
 ![darkstatue2](../../static/img/players/zendark/dark_statue2.png)
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=f9a71ba256f0b487&model=classic&width=256&height=256)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=f9a71ba256f0b487&model=classic&width=100&height=200)
+
+* Colo
+* Triology
+

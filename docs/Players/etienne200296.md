@@ -5,29 +5,19 @@ tags:
   - Player
 ---
 
-# `etienne200296`
-
 ## Identity
-* name: ` Aitana / etienne200296` 
+* Username: `etienne200296`
+* AKA Aitana
 
 ## Contacts
 * Discord: `toxic6469`
 
-## Minecraft Account list
-* etienne200296
-
 ## Join Date
-*  8/10/2021
+* 8/10/2021
 
 ## Accomplishments
-* Is a official spanish mod on the 6b6t discord
+* Spanish moderator in the 6b6t discord
 * Deleted the saviors discord and gave all bases to 555
-* Has been a part of many bases and done many builds
-* Is A Official Spanish Mod On The 6b6t Discord
-* Deleted The Saviors Discord And Gave All Bases To 555
-* Has Been A Part Of Many Bases And Done Many Builds
-
-
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=e2039446ac54354f&model=slim&width=256&height=256)

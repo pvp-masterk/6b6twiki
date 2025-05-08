@@ -5,14 +5,14 @@ tags:
   - Player
 ---
 
-# `MeganByte_`
-
 ## Identity
-* Mainly goes by: Megan / `MeganByte`
+* Username: `MeganByte`
+* Mainly goes by: Megan
 
 ## Contacts
 * Discord: `daswe2_38298`
 * [Youtube](https://www.youtube.com/@MeganByte-kc4vk)
+* [GitHub](https://github.com/MeganByte72)
 
 ## Joindate
 * December 1st, 2024
@@ -23,15 +23,12 @@ tags:
 
 ## Accomplishments
 * Griefed `PolarV2`'s personal stashes many times.
-* Started BSB before handing it over to `bot_mob`.
+* Started Back Street Boys (clan) before handing it over to `bot_mob`.
 * Built many things for projects and build competitions for Saviors and trilogy.
-* Coding projects 
-* Codes and has coded bot control systems and has also made her own client for beta minecraft.
-* Made Saviors 1st obby spawn logo and other obby logos for others as well.
-
-
-## Images (Bot Control System)
-![bcs](../../static/img/players/meganbyte_/bot_control_system.png)
+* Made the first Saviors obsidian spawn logo and helped build many other obsidian spawn logos.
+* **Coding projects**
+  * Bot control systems
+  * Client for beta minecraft
 
 ## Groups
 * Saviors
@@ -46,6 +43,8 @@ tags:
 * Back Street Boys (Disbanded)
 * Sakura (Disbanded)
 
+## Images (Bot Control System)
+![bot control system](../../static/img/players/meganbyte_/bot_control_system.png)
 
 ## Build Pictures
 ![lotusbuild](../../static/img/players/meganbyte_/lotus_build.png)

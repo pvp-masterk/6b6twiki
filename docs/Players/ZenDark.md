@@ -21,13 +21,13 @@ tags:
 * Founded Trilogy
 
 ## Clans
+* Colonizadores
 * Eclipse
 * TSR
 * Trilogy (founder)
 
 ## Build Pictures
-![angelstatue](../../static/img/players/zendark/angel_statue.png)
-![angelstatue2](../../static/img/players/zendark/angel_statue2.png)
+![angel statue](../../static/img/players/zendark/angel_statue.png)
 ![build1](../../static/img/players/zendark/build_1.png)
 ![build2](../../static/img/players/zendark/build_2.png)
 ![build3](../../static/img/players/zendark/build_3.png)

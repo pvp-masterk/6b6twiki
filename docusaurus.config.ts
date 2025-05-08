@@ -37,7 +37,7 @@ const config = {
     {
       src: "https://cloud.umami.is/script.js",
       defer: true,
-      "data-website-id":"eee3aa88-775d-4f0e-8b34-e9b43de8225e"
+      "data-website-id": "eee3aa88-775d-4f0e-8b34-e9b43de8225e"
     }
   ],
 
@@ -62,6 +62,19 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 80,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ],
+
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 
   themeConfig: {
@@ -69,7 +82,7 @@ const config = {
       appId: "GH0QQ503MS",
       apiKey: "baad2528139732bf5c214ebece5028c1",
       indexName: "6b6t-wiki",
-      
+
       contextualSearch: true,
       searchPagePath: "search", // Optional: path for search page that enabled by default (`false` to disable it)
       insights: true, // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)

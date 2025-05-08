@@ -5,10 +5,8 @@ tags:
   - Player
 ---
 
-# `ZenDark`
-
 ## Identity
-* name: `ZenDark` 
+* Name: `ZenDark` 
 
 ## Contacts
 * Discord: `zendarkz`
@@ -17,20 +15,15 @@ tags:
 * ZenDark
 
 ## Join Date
-* Around 4 Years Ago (Exact Date Unknown :< )
+* Around 4 Years Ago
 
 ## Accomplishments
-* Founded Colonizadores (First Clan He Founded)
-* Founded Triology
+* Founded Trilogy
 
-## Clans 
-* Eclipse 
+## Clans
+* Eclipse
 * TSR
-
-
-## Founded Groups
-* Colo (disbanded)
-* Triology
+* Trilogy (founder)
 
 ## Build Pictures
 ![angelstatue](../../static/img/players/zendark/angel_statue.png)
@@ -43,7 +36,3 @@ tags:
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=f9a71ba256f0b487&model=classic&width=100&height=200)
-
-* Colo
-* Triology
-

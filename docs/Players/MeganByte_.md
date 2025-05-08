@@ -24,7 +24,7 @@ tags:
 ## Accomplishments
 * Griefed `PolarV2`'s personal stashes many times.
 * Started BSB before handing it over to `bot_mob`.
-* Built many things for projects and build competitions for Saviors and triology.
+* Built many things for projects and build competitions for Saviors and trilogy.
 * Coding projects 
 * Codes and has coded bot control systems and has also made her own client for beta minecraft.
 * Made Saviors 1st obby spawn logo and other obby logos for others as well.
@@ -37,7 +37,7 @@ tags:
 * Saviors
 * Watchmen
 * Imperials
-* Triology
+* Trilogy
 * The Highway Men
 * Blackout
 

@@ -12,13 +12,10 @@ tags:
 * Discord: `zendarkz`
 
 ## Minecraft Account list
-* ZenDark
+* ZenDarkz
 
 ## Join Date
-* Around 4 Years Ago
-
-## Accomplishments
-* Founded Trilogy
+* December 5th, 2024
 
 ## Clans
 * Eclipse

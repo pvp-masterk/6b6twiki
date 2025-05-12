@@ -7,7 +7,7 @@ tags:
 
 ## Identity
 * Full name: Shulkergang
-* abbreviation: SG
+* Abbreviation: SG
 
 ## Discord
 * https://discord.gg/eATbWpG2RA
@@ -26,36 +26,47 @@ tags:
 - Became one of the most Notable clans on 6b6t
 
 ## Bases
-**1.12.2**:
+### 1.12.2
 - Shulker 1
 - Shulker 2
 
-**1.19**:
+### 1.19
 - Spaceship
 - Mapart
 - Space Shulk
 
 ## Notable Members
+### Founders
 - [28st](../Players/28st.md) (Founder)
 - kokos_odpadnem (Founder)
 - schmiddie (Founder)
-- [CapyKing10](../Players//capy.md) (Leader)
-- [myniany](../Players/myniany.md) (Leader)
-- [lil__perp](../Players/lilperp.md) (leader)
-- ByroBuff (leader)
-- aodrael (leader)
-- [scarthebest1943](../Players/scar.md) (leader)
-- [xiNxghtMar3ix](../Players/nxght.md) (Leader)
+
+### Leaders
+- [CapyKing10](../Players//capy.md)
+- [myniany](../Players/myniany.md)
+- [lil__perp](../Players/lilperp.md)
+- ByroBuff
+- aodrael
+- [scarthebest1943](../Players/scar.md)
+- [xiNxghtMar3ix](../Players/nxght.md)
 - Price (Co Leader)
-- Backup_Inventory (Mod)
-- Rozen (Mod)
-- audsis (higher member)
-- [vined_](../Players/vined.md) (higher member)
-- femboy (higher member)
-- jajo341 (member)
-- wiesiupvp (member)
-- [c1yd3i](../Players/clyde.md) (member)
-- TheJTnoob (member)
+
+### Moderators
+- Backup_Inventory
+- Rozen
+
+### Higher members
+- audsis
+- [vined_](../Players/vined.md)
+- femboy
+
+### Members
+- jajo341
+- wiesiupvp
+- [c1yd3i](../Players/clyde.md)
+- TheJTnoob
+
+### Other people
 - TheTroll2001 (THE chatter)
 
 ## Downfall of 1.12.2 Shulkergang

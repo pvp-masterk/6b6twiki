@@ -36,7 +36,7 @@ tags:
 - Space Shulk
 
 ## Notable Members
-- [[28st](../Players/28st.md)](../Players/[28st](../Players/28st.md).md) (Founder)
+- [28st](../Players/28st.md) (Founder)
 - kokos_odpadnem (Founder)
 - schmiddie (Founder)
 - [CapyKing10](../Players//capy.md) (Leader)

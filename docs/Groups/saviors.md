@@ -83,7 +83,6 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 ### Saviors (members)
 - Elotion (griefer)
 - BeamyTerror9531 (builder)
-- CaT_345
 - Maccatackz (builder)
 
 ### Savior/project manager

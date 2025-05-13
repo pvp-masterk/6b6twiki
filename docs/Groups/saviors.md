@@ -77,7 +77,7 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 ### Leaders
 - [Iced_Cave](../Players/iced_cave.md) (Founder)
 - Aitana (etienne200296) (owner, iced_cave successor)
-- Wavybody (crystal pvper)
+- wavybody (crystal pvper)
 - Vertrica08 (griefer)
 
 ### Members
@@ -89,11 +89,11 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 
 ### Trusted recruits
 - PaxGriefs
->botted the Saviors discord server
+>ran spam bots on 6b6t to make more people join the discord
 - ryk_cbaool
->also botted the Saviors discord server
+>also advertised on 6b6t to make more people join the discord
 - Hekt0r44566
->insided [555](../Groups/555.md) and leaked 15k dub stash, builder, created an automatic delivery bot that was never used due to saviors getting destroyed
+>insided [555](../Groups/555.md) and leaked 15k dub stash, builder, created an automatic delivery bot that was never used due to saviors getting destroyed and contributed to the membercount by running spambots
 
 ### Recruits
 - lava67

@@ -29,17 +29,17 @@ Players across the community but mainly 555 and members from the group which had
 
 scarthebest1943 then proceeded to make this [video](https://youtu.be/FI5ZHRTy6kk?si=vOoA1Glm69BAPUn8) after griefing Tesseract's main base and stash which also exposed info on the strange behaviors of tesseract members like KeprisNexus
 
-Tesseract members/leaders went on with playing 6b6t as they normally would for the next month as Advik555 continued to inside their group and obtain many of their bases under [555 clan](https://6b6t-wiki.vercel.app/Groups/104) which coordinated with [104](https://6b6t-wiki.vercel.app/Groups/104) to nuke their discord server and grief all of their bases, proceeding to make another [video](https://youtu.be/gfk33GHCQKU?si=hbUaI37SUaD7I77N) which again showed tesseract owners using extorsion and doxxing to get their way
+Tesseract members/leaders went on with playing 6b6t as they normally would for the next month as Advik555 continued to inside their group and obtain many of their bases under [555 clan](./555) which coordinated with [104](./104) to nuke their discord server and grief all of their bases, proceeding to make another [video](https://youtu.be/gfk33GHCQKU?si=hbUaI37SUaD7I77N) which again showed tesseract owners using extorsion and doxxing to get their way
 
 By this time Tesseract leaders and members were fed up with [555](https://6b6t-wiki.vercel.app/groups/555) and [104](https://6b6t-wiki.vercel.app/Groups/104) griefing them constantly, and the bad publicity they were receiving so in a attempt to start on a clean slate they rebranded to Eclipse, which also ended up being griefed in just over a month with [scarthebest1943](https://placeholder.org) making this [video](https://youtu.be/cweJk6zupDY?si=uuDQTVaEEu4M36kC)
 
-Tesseract then thought it was going to be a good idea switching back to their second name "Tesseract" which also didn't end well with [104](https://6b6t-wiki.vercel.app/Groups/104) griefing them again on one of their member's accounts known as KeprisNexus. scarthebest1943 then uploaded this [video](https://youtu.be/YORdPtE0aN0?si=pd_XpCzLZMYj0_CV).
+Tesseract then thought it was going to be a good idea switching back to their second name "Tesseract" which also didn't end well with [104](./104) griefing them again on one of their member's accounts known as KeprisNexus. scarthebest1943 then uploaded this [video](https://youtu.be/YORdPtE0aN0?si=pd_XpCzLZMYj0_CV).
 
 Tesseract then continued to play normally hoping that they wouldn't be griefed again but to their surprise in just under a month all of their bases and stashes were griefed once again, with their discord also being nuked. hokindo9000 then edited the 5th tesseract [video](https://youtu.be/b5GKXLeJRis?si=eYCKsArLkHNHMtZv)
 
 Tesseract leaders then decided to rebrand to saviors for the same reasons as before.
 
-Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until the 18th of December, where [104](https://6b6t-wiki.vercel.app/Groups/104) went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they even managed to grief two 555 bases. 
+Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until the 18th of December, where [104](./104) went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they even managed to grief two 555 bases. 
 
 However players from 555 discovered that saviors were secretely building a very large spawn logo and completely griefed the logo using a little help from 104 and thm (this later created the group owned by Advik555 now known as "Air Destroyers"
 

@@ -45,7 +45,7 @@ Saviors was at its peak around late 2024, there was an influx of players around 
 Saviors was building a very large spawn logo. When 555 members came to know about this they griefed the logo. THM (The Highway Men) and 104 also helped griefing
 
 Saviors continued to do well, however, [iced_cave](../Players/iced_cave.md) (the owner) was becoming less and less active, leading to many internal issues.
-Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104. It is still unknown how this happened but many point towards one of the council higher members being an insider. The saviors discord was then deleted and the private discord was made public by 555 and [Aitana](../Players/etienne200296.md).
+Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104. It is still unknown how this happened but many point towards one or more of the council higher members being an insider. The saviors discord was then deleted and the private discord was made public by 555 and [Aitana](../Players/etienne200296.md). According to wavybody, Vertrica08 sold spavevalkyria v2, the main stash, the delivery stash, the recruit base, the counsil base and the medieval base to fourseven
 
 
 ## Bases

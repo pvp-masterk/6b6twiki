@@ -50,6 +50,7 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 
 ## Bases
 - Christmas Base
+![christmas base](../../static/img/groups/saviors/christmas_base.png)
 
 - Counsil base
 ![counsil base](../../static/img/groups/saviors/counsil_base.png)
@@ -84,16 +85,19 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 - [Iced_Cave](../Players/iced_cave.md) (Founder)
 - Aitana (etienne200296) (owner, iced_cave successor)
 - wavybody (crystal pvper)
-- TalkyCandy (pvp leader)
 - Vertrica08 (griefer)
+
+### PvP manager
+- TalkyCandy
+
+### Savior/project manager
+- CaT_345
 
 ### Saviors (members)
 - Elotion (griefer)
 - BeamyTerror9531 (builder)
 - Maccatackz (builder)
 
-### Savior/project manager
-- CaT_345
 
 ### Trusted recruits
 - [MeganByte_](../Players/meganbyte.md) (builder)

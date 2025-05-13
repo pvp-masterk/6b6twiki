@@ -17,7 +17,7 @@ tags:
   * PollyNeedCrack
   * DataDrop
 ## Accomplishments
-- Greifed multiple bases and clans
+- Griefed multiple bases and clans
 - Built large detailed bases
 - Reaching 1000 discord members prior to its deletion
 ## History
@@ -31,7 +31,7 @@ scarthebest1943 then proceeded to make this [video](https://youtu.be/FI5ZHRTy6kk
 
 Tesseract members/leaders went on with playing 6b6t as they normally would for the next month as Advik555 continued to inside their group and obtain many of their bases under [555 clan](./555) which coordinated with [104](./104) to nuke their discord server and grief all of their bases, proceeding to make another [video](https://youtu.be/gfk33GHCQKU?si=hbUaI37SUaD7I77N) which again showed tesseract owners using extorsion and doxxing to get their way
 
-By this time Tesseract leaders and members were fed up with [555](https://6b6t-wiki.vercel.app/groups/555) and [104](https://6b6t-wiki.vercel.app/Groups/104) griefing them constantly, and the bad publicity they were receiving so in a attempt to start on a clean slate they rebranded to Eclipse, which also ended up being griefed in just over a month with [scarthebest1943](https://placeholder.org) making this [video](https://youtu.be/cweJk6zupDY?si=uuDQTVaEEu4M36kC)
+By this time Tesseract leaders and members were fed up with [555](./555) and [104](./104) griefing them constantly, and the bad publicity they were receiving so in a attempt to start on a clean slate they rebranded to Eclipse, which also ended up being griefed in just over a month with [scarthebest1943](../Players/scar.md) making this [video](https://youtu.be/cweJk6zupDY?si=uuDQTVaEEu4M36kC)
 
 Tesseract then thought it was going to be a good idea switching back to their second name "Tesseract" which also didn't end well with [104](./104) griefing them again on one of their member's accounts known as KeprisNexus. scarthebest1943 then uploaded this [video](https://youtu.be/YORdPtE0aN0?si=pd_XpCzLZMYj0_CV).
 
@@ -41,9 +41,9 @@ Tesseract leaders then decided to rebrand to saviors for the same reasons as bef
 
 Saviors was in its top form around late 2024, there was an influx of players around November 2024 with many projects underway. That was until the 18th of December, where [104](./104) went on a rampage of griefs, griefing 7 bases and stashes, this included the Saviors Christmas Base that was being built for the Christmas competition. However, Saviors still remained intact and with new members coming in, they even managed to grief two 555 bases. 
 
-However players from 555 discovered that saviors were secretely building a very large spawn logo and completely griefed the logo using a little help from 104 and thm (this later created the group owned by Advik555 now known as "Air Destroyers"
+However players from 555 discovered that saviors were secretely building a very large spawn logo and completely griefed the logo using a little help from 104 and thm (this later created the group owned by Advik555 now known as "Air Destroyers")
 
-They continued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025 EVERY saviors base was greifed, by 555/104, currently it is not known exactly how but many point towards one of the high council members being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana (etienne200296).
+They continued to do well however the owner at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025 EVERY saviors base was griefed, by 555/104, currently it is not known exactly how but many point towards one of the high council members being an insider. This led to the deletion of saviors discord & the private discord being made public by 555 and aitana (etienne200296).
 
 
 ## Bases
@@ -64,18 +64,28 @@ As mentioned above, Saviors had some good looking bases such as:
 
 
 ## Notable Members
-- Iced_Cave (founder)
-- Wavybody (saviors leader and crystal PvPer)
-- Vertrica08 (saviors leader and greifer)
-- Elotion (saviors high council member and greifer)
-- BeamyTerror9531 (saviors high council member and builder)
-- CaT_345 (saviors member)
-- Aitana (etienne200296) (saviors last owner, after iced quit due to greifs.)
-- Maccatackz (saviors member and builder)
-- MeganByte_ (Saviors Member And Builder, created the schems for the original obby spawn logo for the group, her build at the recruit base inspired the creation of the Japanese base)
-- PaxGreifs (Saviors trusted recruit who played a huge role in getting the discord to 1000 members using many bots)
-- ryk_cbaool (saviors trusted recruit who also played a huge role in getting the discord to 1000 members using bots)
-- lava67 (saviors recruit who planned building megabase but saviors got destroyed before it could happen)
-- AddEdit (saviors recruit who helped alot in recruitbase by building and artist)
-- Hekt0r44566 (saviors trusted recruit, insided 555 and leaked 15k dubstash, builder, created automatic delivery bot that was never used due to saviors getting destroyed, and played a huge role in getting the discord to 1000 members)
-  
+### Leaders
+- [Iced_Cave](../Players/iced_cave.md) (Founder)
+- Aitana (etienne200296) (owner, iced_cave successor)
+- Wavybody (crystal pvper)
+- Vertrica08 (griefer)
+
+### Members
+- Elotion (griefer)
+- BeamyTerror9531 (builder)
+- CaT_345
+- Maccatackz (builder)
+- [MeganByte_](../Players/meganbyte.md) (builder)
+
+### Trusted recruits
+- PaxGriefs
+>botted the Saviors discord server
+- ryk_cbaool
+>also botted the Saviors discord server
+- Hekt0r44566
+>insided [555](../Groups/555.md) and leaked 15k dub stash, builder, created an automatic delivery bot that was never used due to saviors getting destroyed
+
+### Recruits
+- lava67
+>planned building megabase but saviors got destroyed before he could build it
+- AddEdit (builder)

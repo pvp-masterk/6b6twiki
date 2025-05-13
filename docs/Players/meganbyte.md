@@ -25,7 +25,8 @@ tags:
 * Griefed `PolarV2`'s personal stashes many times.
 * Started Back Street Boys (clan) before handing it over to `bot_mob`.
 * Built many things for projects and build competitions for Saviors and trilogy.
-* Made the first Saviors obsidian spawn logo and helped build many other obsidian spawn logos.
+* Created the schematics for the original obsidian spawn logo for Saviors and helped build many other obsidian spawn logos.
+* Her build at the Saviors recruit base inspired the creation of a Japanese-themed base
 * **Coding projects**
   * Bot control systems
   * Client for beta minecraft

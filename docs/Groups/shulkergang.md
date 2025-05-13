@@ -80,12 +80,12 @@ tags:
 > Together bd71legend and the imps started a long search to find the two builds. 
 > 26 October 2023 they achieved success when they found the trail base through some insiders.
 > The base was griefed by bd71legend, tanish and dev.
-> This caused a counter in which shulker gang greifed another imperial base, which motivated the search. 
+> This caused a counter in which shulker gang griefed another imperial base, which motivated the search. 
 > Bd71legend used one of his old accounts Itz_noobri as a bot to fly around a used stash finders to log places.
 > The Itz_noobri account was stationed at the shulkergang spaceship base which was constructed by bd71legend and kempercongos (6tools6builders).
 > [28st](../Players/28st.md) made a crucial mistake by constructing the base near the old bases.
 > On 26th November the account logged a huge stash which after inspection was found to be the main base.
-> Bd71legend after finding the base did not greif it or leak the cords and demanded his position of sg leader back.
+> Bd71legend after finding the base did not grief it or leak the cords and demanded his position of sg leader back.
 >This was provided to him but aodreal one of the other leaders managed to kick him which resulted in Protest, adr14n0, bd71legend  and some other crucial members of imps to grief the base on the 6th of December 2023.
 > This incident was the final blow in the history of shulkergang as after this grief the leaders started getting inactive resulting in the clan being dead.
 > Some members started moving to different servers like [alacity](../MCServers/alacity.md) and some joined donfuer 6b6t.

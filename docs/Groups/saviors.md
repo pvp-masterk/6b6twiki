@@ -49,30 +49,30 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 
 
 ## Bases
-- Christmas Base
+### Christmas Base
 ![christmas base](../../static/img/groups/saviors/christmas_base.png)
 
-- Counsil base
+### Counsil base
 ![counsil base](../../static/img/groups/saviors/counsil_base.png)
 
-- Leaders base
+### Leaders base
 ![leaders base](../../static/img/groups/saviors/leaders_base.png)
 
-- Main Base space valkyria
+### Main Base
 ![space valkyria base](../../static/img/groups/saviors/main_base.png)
 ![space valkyria base 2](../../static/img/groups/saviors/main_base_2.png)
 
 
-- 2024 recruit base
+### 2024 recruit base
 ![2024 recruit base](../../static/img/groups/saviors/2024_recruit_base.png)
 
-- Japan Base
+### Japan Base
 ![japan base](../../static/img/groups/saviors/japan_base.png)
 ![japan base](../../static/img/groups/saviors/japan_base_2.png)
 ![japan base](../../static/img/groups/saviors/japan_base_3.png)
 ![japan base](../../static/img/groups/saviors/japan_base_4.png)
 
-- Medieval Base
+### Medieval Base
 ![japan base](../../static/img/groups/saviors/medieval_base.png)
 ![japan base](../../static/img/groups/saviors/medieval_base_2.png)
 ![japan base](../../static/img/groups/saviors/medieval_base_3.png)

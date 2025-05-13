@@ -8,7 +8,7 @@ See all contributors on the [GitHub repository](https://github.com/Advik555wasta
 * **[North](https://6b6t-wiki.vercel.app/Players/north)**:
   * Idea man
   * Discord: `nerdsinc`
-* **[Advik](https://6b6t-wiki.vercel.app/Players/Advik555)**:
+* **[Advik](https://6b6t-wiki.vercel.app/Players/advik555)**:
   * Idea man
   * Discord: `_advik555`
   * [Github](https://github.com/Advik555wastaken)

@@ -80,14 +80,17 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 - wavybody (crystal pvper)
 - Vertrica08 (griefer)
 
-### Members
+### Saviors (members)
 - Elotion (griefer)
 - BeamyTerror9531 (builder)
 - CaT_345
 - Maccatackz (builder)
-- [MeganByte_](../Players/meganbyte.md) (builder)
+
+### Savior/project manager
+- CaT_345
 
 ### Trusted recruits
+- [MeganByte_](../Players/meganbyte.md) (builder)
 - PaxGriefs
 >ran spam bots on 6b6t to make more people join the discord
 - ryk_cbaool

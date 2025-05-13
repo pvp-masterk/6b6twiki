@@ -71,7 +71,6 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 ![japan base](../../static/img/groups/saviors/medieval_base_3.png)
 ![japan base](../../static/img/groups/saviors/medieval_base_4.png)
 ![japan base](../../static/img/groups/saviors/medieval_base_5.png)
-![japan base](../../static/img/groups/saviors/medieval_base_6.png)
 
 
 ## Notable Members

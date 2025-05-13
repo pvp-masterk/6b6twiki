@@ -1,15 +1,12 @@
 ---
-sidebar_label: 'scarthebest1943'
 title: 'scarthebest1943'
 tags:
   - Player
   - 6b6t
 ---
 
-# `scarthebest1943`
-
 ## Identity
-* Formal name: scarthebest1943
+* Formal name: `scarthebest1943`
 * Mainly goes by: Scar
 
 ## Contacts

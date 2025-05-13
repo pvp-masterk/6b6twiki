@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'c1yd3i'
 title: 'c1yd3i'
 tags:
   - Player
 ---
-
-# `c1yd3i`
 
 ## Identity
 * Formal name: c1yd3i

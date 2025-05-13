@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'Datadrop'
 title: 'Datadrop'
 tags:
   - Player
 ---
-
-# `Datadrop`
 
 ## Identity
 * Name: `Datadrop`

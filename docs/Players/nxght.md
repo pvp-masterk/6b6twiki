@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'xiNxghtMar3ix'
 title: 'xiNxghtMar3ix'
 tags:
   - Player
 ---
-
-# `xiNxghtMar3ix`
 
 ## Identity
 * Formal name: xiNxghtMar3ix

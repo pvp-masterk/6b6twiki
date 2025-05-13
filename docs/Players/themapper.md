@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'TheMapper'
 title: 'TheMapper'
 tags:
   - Player

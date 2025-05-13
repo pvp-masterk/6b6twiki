@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'Myniany'
 title: 'Myniany'
 tags:
   - Player
 ---
-
-# `Myniany`
 
 ## Identity
 * Formal name: Myniany

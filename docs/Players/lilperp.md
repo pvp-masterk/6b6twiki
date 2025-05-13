@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'lil__perp'
 title: 'lil__perp'
 tags:
   - Player

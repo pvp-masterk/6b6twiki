@@ -1,12 +1,9 @@
 ---
-sidebar_label: 'CapyKing10'
 title: 'CapyKing10'
 tags:
   - Player
   - Contributor
 ---
-
-# `CapyKing10`
 
 ## Identity
 * Formal name: CapyKing10

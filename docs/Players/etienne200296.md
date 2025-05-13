@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'etienne200296'
 title: 'etienne200296'
 tags:
   - Player

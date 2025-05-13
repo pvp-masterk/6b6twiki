@@ -1,12 +1,9 @@
 ---
-sidebar_label: 'Advik555'
 title: 'Advik555'
 tags:
   - Player
   - 6b6t
 ---
-
-# `Advik555`
 
 ## Identity
 * Full username: Advik555

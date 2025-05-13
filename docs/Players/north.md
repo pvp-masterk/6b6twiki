@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'North'
 title: 'North'
 tags:
   - Player
 ---
-
-# `North`
 
 ## Identity
 * Formal name: `North`

@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'MeganByte_'
 title: 'MeganByte_'
 tags:
   - Player

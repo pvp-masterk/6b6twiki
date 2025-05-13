@@ -1,12 +1,9 @@
 ---
-sidebar_label: 'vined_'
 title: 'vined_'
 tags:
   - Player
   - 6b6t
 ---
-# `vined`
-
 ## Identity
 * Username: `vined_`
 * Mainly goes by: `vined`

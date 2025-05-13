@@ -1,14 +1,12 @@
 ---
-sidebar_label: 'Noon'
 title: 'Noon'
 tags:
   - Player
 ---
 
-
 ## Identity
 * Formal name: Noon
-* Mainly goes by: hokindo/sult
+* Mainly goes by: hokindo9000/sult/noon
 * Discord: `sultsult`
 * [NameMC](https://namemc.com/profile/hokindo9000.1)
 

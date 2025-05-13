@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'ZenDark'
 title: 'ZenDark'
 tags:
   - Player

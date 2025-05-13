@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'Iced_Cave'
 title: 'Iced_cave'
 tags:
   - Player
 ---
-
-# `Iced_Cave`
 
 ## Identity
 * Formal name: `Iced_Cave` (originally called `Patosogamer`)

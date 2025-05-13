@@ -1,15 +1,12 @@
 ---
-sidebar_position: 1
-sidebar_label: 'qbasty'
 title: 'qbasty'
+sidebar_position: 1
 tags:
   - Player
   - Owner
   - Contributor
 ---
 	
-# `qbasty`
-
 ## Identity
 * Full name: qbasty
 * Informal names:

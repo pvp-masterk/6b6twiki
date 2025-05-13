@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'assed_'
 title: 'assed_'
 tags:
   - Player

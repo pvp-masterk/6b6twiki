@@ -1,11 +1,8 @@
 ---
-sidebar_label: 'Sharedlines'
 title: 'Sharedlines'
 tags:
   - Player
 ---
-
-# `Sharedlines`
 
 ## Identity
 * Full name: Sharedlines

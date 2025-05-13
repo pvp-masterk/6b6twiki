@@ -121,7 +121,7 @@ const config = {
             },
             {
               label: 'Credits',
-              to: '/credits',
+              to: 'https://github.com/Advik555wastaken/6b6twiki/graphs/contributors',
             }
           ],
         },

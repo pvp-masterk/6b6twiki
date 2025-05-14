@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'Shulkergang'
 title: 'Shulkergang'
 tags:
   - Group

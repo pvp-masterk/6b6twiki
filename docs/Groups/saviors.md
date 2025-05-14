@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'Saviors'
 title: 'Saviors'
 tags:
   - Group

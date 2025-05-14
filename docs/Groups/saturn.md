@@ -1,5 +1,4 @@
 ---
-sidebar_label: 'Saturn'
 title: 'Saturn'
 tags:
   - Group

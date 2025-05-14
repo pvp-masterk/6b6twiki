@@ -52,7 +52,7 @@ Then, on the 8th of March of 2025 every saviors base was griefed by 555 and 104.
 ### Christmas Base
 ![christmas base](../../static/img/groups/saviors/christmas_base.png)
 
-### Counsil base
+### Council base
 ![counsil base](../../static/img/groups/saviors/counsil_base.png)
 
 ### Leaders base

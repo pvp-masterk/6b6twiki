@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "docusaurus-build": "docusaurus build",
-    "prebuild": "node src/scripts/playersindex.js",
-    "build": "npm run docusaurus-build",
+    "build": "docusaurus build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "swizzle": "docusaurus swizzle",

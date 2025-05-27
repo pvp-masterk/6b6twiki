@@ -91,7 +91,7 @@ This led Colonizadores to leave 6b6t due to lack of motivation and competition (
 
 ## Photos:
 ![logo16](../../static/img/groups/colonizadores/logo16.png)  
-![1K](../../static/img/groups/colonizadores/1K.png)
+![1K](../../static/img/groups/colonizadores/1k.png)
 ![bannerv216_9](../../static/img/groups/colonizadores/bannerv216_9.png)
 ![basetoro](../../static/img/groups/colonizadores/basetoro.png)
 ![aguila_1](../../static/img/groups/colonizadores/aguila_1.png)

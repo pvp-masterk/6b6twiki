@@ -3,6 +3,7 @@
 
 # Production
 /build
+/docs/Players/index.md
 
 # Generated files
 .docusaurus

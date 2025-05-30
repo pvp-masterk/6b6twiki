@@ -1,5 +1,6 @@
 ---
 title: 'Saviors'
+description: AKA Tesseract, Eclipse it was one of the most controversial clans on 6b6t
 tags:
   - Group
 ---

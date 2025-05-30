@@ -18,7 +18,7 @@ tags:
 * Created CDC
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=b4ac8f2417556db7&model=slim&width=256&height=256)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=b4ac8f2417556db7&model=slim&width=100&height=200)
 
 ## Clans
 * Tesseract

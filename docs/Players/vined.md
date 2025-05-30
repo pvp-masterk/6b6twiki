@@ -42,7 +42,7 @@ tags:
 - Spammed the 6b6t chat with 10-50 bots from 2022 to 2023
 
 ## Skin
-![vined_](https://s.namemc.com/3d/skin/body.png?id=2e6ab0c469107e9b&model=slim&theta=30&phi=21&time=90&width=100&height=200 "vined_")
+![vined_](https://s.namemc.com/3d/skin/body.png?id=2e6ab0c469107e9b&model=slim&theta=30&phi=21&time=90&width=100&height=200)
 
 
 ## Clans

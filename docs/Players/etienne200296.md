@@ -19,7 +19,7 @@ tags:
 * Deleted the saviors discord and gave all bases to 555
 
 ## Skin
-![Skin](https://s.namemc.com/3d/skin/body.png?id=e2039446ac54354f&model=slim&width=256&height=256)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=e2039446ac54354f&model=slim&width=100&height=200)
 
 ## Clans 
 * 555

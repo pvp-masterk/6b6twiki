@@ -29,4 +29,4 @@ tags:
 * former [ShulkerGang](../Groups/shulkergang) member
 
 ### Skin
-![Sharedlines](https://s.namemc.com/3d/skin/body.png?id=4c4d64932237fcf2&model=classic&width=80&height=160)
+![Sharedlines](https://s.namemc.com/3d/skin/body.png?id=4c4d64932237fcf2&model=classic&width=100&height=200)

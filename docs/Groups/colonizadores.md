@@ -1,5 +1,6 @@
 ---
 title: 'Colonizadores'
+description: 6b6t clan, previously 2b2t shop
 tags:
   - Group
 ---

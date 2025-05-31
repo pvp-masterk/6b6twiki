@@ -64,6 +64,4 @@ tags:
 - Donfuer (*died*)
 
 ## Skin
-[mossy cobblestone steve](https://www.planetminecraft.com/skin/mossy-cobblestone-steve-trailer-steve/)
-
-![Skin](https://i.ibb.co/pRQ889L/screenshot-1714085591645.png)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=8378f43535d8333d&model=classic&theta=30&phi=21&time=90&width=100&height=200)

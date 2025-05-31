@@ -7,11 +7,14 @@ tags:
 ##  Identity
 * Full name: `Saturn 6b6t`
 * abbrevation: `Saturn`
+
 ## Discord
 ### Original
 * `discord.gg/YhGuuhMGwJ`
+
 ### 2024 revival
 * `discord.gg/ajm7CSRBZY`
+
 ## History
 * Founding date: May 30th, 2023
 * Founded by:

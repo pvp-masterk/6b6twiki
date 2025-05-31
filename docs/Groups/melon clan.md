@@ -1,7 +1,8 @@
 ---
 title: 'Melon Clan'
+description: Clan founded by lava67 in early 2023
 tags:
-  - Group
+  - Clan
 ---
 
 ## Identity

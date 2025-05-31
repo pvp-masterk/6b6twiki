@@ -36,7 +36,7 @@ function getSkinUrl(markdown, overrideSize = true) {
   }
 
   for (const url of urls) {
-    if (url.includes("https://s.namemc.com/3d/")) return overrideSize ? url.replace(`width=100&height=200`, `width=${skinSize.width}&height=${skinSize.height}`) : url;
+    if (url.startsWith("https://s.namemc.com/3d/")) return overrideSize ? url.replace(`width=100&height=200`, `width=${skinSize.width}&height=${skinSize.height}`) : url;
   }
 }
 

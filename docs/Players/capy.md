@@ -21,7 +21,7 @@ tags:
  * Made a lot of 6b6t videos (Mostly griefing)
  * Contributed to the largest mapart in 2023
  * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h
- * Won multiple building competitions with his group IronVale.
+ * Competed in multiple building competitions with his group IronVale.
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=c1880e115a13cc81&model=classic&theta=38&phi=13&time=90&width=100&height=200)

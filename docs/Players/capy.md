@@ -19,7 +19,7 @@ tags:
 
 ## Acomplishments
  * Made a lot of 6b6t videos (Mostly griefing)
- * Contributed to the largest mapart in the server!
+ * Contributed to the largest mapart in 2023
  * Discovered a [flight exploit](https://www.youtube.com/watch?v=hGC1wILneAA&t=9s) that goes 400km/h
  * Won multiple building competitions with his group IronVale.
 

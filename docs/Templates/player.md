@@ -6,6 +6,7 @@ tags:
   - Contributing
 ---
 
+This template gives an outline for player pages. Modify if needed.
 
 ## Identity
 * Username: `user01XDlol_`
@@ -15,7 +16,7 @@ tags:
 * [NameMC](https://namemc.com/)
 
 ## Joindate
-insert joindate here
+9 semptember 2009
 
 ## Accomplishments
 * Put accomplishments here

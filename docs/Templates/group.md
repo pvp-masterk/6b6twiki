@@ -6,33 +6,37 @@ tags:
   - Contributing
 ---
 
-This is a template that shows how you should write a page about a group
-**NOTES:**
-* Abongza is not a real group
+This template gives an outline for group/clan pages. Modify if needed.
+
+:::note
+
+Abongza is not a real group or clan
+
+:::
 
 ## Identity
 * Name: Abongza
-* Abbreviation: ABZ
+* Abbreviation: ABG
 * Discord: `dsc.gg/oogabooga`
 
 ## History
 * Founding date: 15 November 2023
 * Founded by: 
   * user01XDlol
-  * CapyKing10
-* Founding Story: 
+  * [CapyKing10](../Players/capy.md)
 
 ## Accomplishments
-- Built a megabase called Abongagazaza *(With optional link to megabase)*
+- Built a megabase called Abongagazaza
 - Won a pvp tournament
 
 ## Bases
-- Abongza 1 (link to base wiki page if possible)
+*maybe add some screenshots*
+- Abongza 1
 - Abongagazaza
 
 ## Notable Members
 - user01XDlol (founder)
-- CapyKing10 (founder)
+- [CapyKing10](../Players/capy.md) (founder)
 - Fortniteballsowner96 (high member)
 
 ## Logo / Banner:

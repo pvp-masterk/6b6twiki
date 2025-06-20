@@ -30,8 +30,8 @@ tags:
 * Became one of the most well known griefers on 6b
 * Became one of the largest 6b6t content creators 
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to Folia software
-* Discovered a boat fly bypass (Currently not public)
-* Discovered a lag exploit
+* Discovered multiple boatfly bypasses
+* Discovered a lag exploit 
 * Discovered a teleport exploit
 * Contributed to [Atlas](https://www.youtube.com/watch?v=w2oV6sHu1Q8)
 

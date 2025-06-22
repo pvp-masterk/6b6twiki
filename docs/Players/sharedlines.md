@@ -19,8 +19,7 @@ tags:
 * Boatfly exploit
 * [Auth exploit](https://www.youtube.com/watch?v=rZHIQOuM0tM)
 * Crash/lag exploits
-* Replicated the TP exploit used for Atlas
-* Contributed to [Atlas](https://www.youtube.com/watch?v=w2oV6sHu1Q8)
+* Replicated the TP exploit used for [Atlas](https://www.youtube.com/watch?v=w2oV6sHu1Q8)
 
 ### Groups
 * Laggang member (Disbanded)

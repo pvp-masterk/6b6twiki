@@ -15,7 +15,7 @@ tags:
 
 ### Accomplishments
 * Founder of 6b6t Times
-* Owner of 104
+* former co-owner of 104
 * Boatfly exploit
 * [Auth exploit](https://www.youtube.com/watch?v=rZHIQOuM0tM)
 * Crash/lag exploits

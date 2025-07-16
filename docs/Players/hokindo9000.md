@@ -21,7 +21,6 @@ tags:
 - Reached all world borders in all dimensions
 - Cleared a majority of all netherrack at nether spawn
 - Caused the first 2 ever chunk reversions in early 2023
-- Being the most submissive femboy on the server
 
   
 ## Skin

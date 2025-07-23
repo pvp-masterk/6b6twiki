@@ -21,6 +21,7 @@ tags:
 ## Accomplishments
 * Founded the largest cpvp group on 6b6t
 * Creating the client known as cockclient.me
+* The first player to receive legend rank
 
 
 ## Skin 

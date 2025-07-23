@@ -21,6 +21,7 @@ tags:
 - Reached all world borders in all dimensions
 - Cleared a majority of all netherrack at nether spawn
 - Caused the first 2 ever chunk reversions in early 2023
+- Contributed to [Atlas](https://www.youtube.com/watch?v=w2oV6sHu1Q8)
 
   
 ## Skin

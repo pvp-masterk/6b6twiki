@@ -14,7 +14,6 @@ tags:
 * Founding date: 04/03/2024
 * Founded by: 
   * Bermani
-  * slay_dev
 * Tagline
 >TSR is the fastest-growing clan on 6b6t, evolving from a small group into a thriving community of over 4000 members united by a common purpose. With a vast network of bases, stashes, and a skilled PvP team, we proudly embody strength, pride, and a lasting presence on the server.
 >

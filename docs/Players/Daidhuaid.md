@@ -19,10 +19,8 @@ tags:
 * October 28th, 2022
 
 ## Accomplishments
-*  Making boobgang biggest pvp group on the sever
-* Leaking the dms of lizzymc "a pedo"
-* Owning spawn with his group
-* making and owning cockclient.me
+* Founded the largest cpvp group on 6b6t
+* Creating the client known as cockclient.me
 
 
 ## Skin 
@@ -31,3 +29,5 @@ tags:
 ## Clans
 * Boobgang 
 * 104 
+* Motive (inactive)
+* Atlas (disbanded in 2022)

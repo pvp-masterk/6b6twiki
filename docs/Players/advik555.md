@@ -31,11 +31,9 @@ tags:
 - Placed millions of obsidian and crying obsidian blocks on the server
 - Created a 10,000x10,000 map of 6b6t spawn
 - Created the 6b6t wiki
-- The oldest high-activity player
 - Discovered the /name exploit (aka white name exploit)
 - Discovered 120 BPS+ elytra fly config
 - Griefed and insided a very large amount of clans, especially those against 555
-- Was the main worker on the largest logo on the server
 
 ## Clans
 - [555](../Groups/555.md)

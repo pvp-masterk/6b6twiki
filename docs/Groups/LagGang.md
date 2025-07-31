@@ -34,7 +34,14 @@ tags:
   The group decided to grow their clan, and wanted to discover as many exploits as they could.
   To join the group, you couldn’t apply, but had to be hand picked by an existing member.
 
-  Write moooooooooore here later when I have time
+  In November of 2022, LagGang decided to participate in No-Server-November and attempted to crash the server for the entire month.
+  One month later, LagGang had an exclusive dupe that they made public as a Christmas gift.
+
+  In February 2023, LagGang attempts to lavacast all of the spawn area.
+
+  Then some other stuff
+
+  In September 2023, LagGang officially shuts down with a message from TNT_Jesse, citing inactivity from the members and general burnout of the server.
 
 ## Members
 ### Leaders

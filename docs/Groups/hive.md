@@ -7,6 +7,7 @@ tags:
 ## Identity
 * Full name: The Hive
 * abbreviation: none
+* No longer active
 
 ## Discord:
 * https://discord.gg/fcecZ7Qd8z
@@ -33,7 +34,7 @@ tags:
 - Hive 1 (pyromaniac fireflies)
 - Hive 2
 - Hive Halloween
-- Hive 3 (abandoned)
+- Hive 3 (unfinished)
 - Kung Fu Chong Kyoto Hive
 
 ## Notable Members

@@ -13,7 +13,7 @@ tags:
 ## Founding information
 * Founding date: mid 2024
 * Founded by: 
-  * [patosogamer](../Players/Iced_Cave.md)
+  * [patosogamer](../Players/iced_cave.md)
   * PollyNeedCrack
   * [DataDrop](../Players/datadrop.md)
 

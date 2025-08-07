@@ -53,7 +53,7 @@ tags:
 
 ### Other Members
 - [vined_](../Players/vined.md)
-- [Sharedlines](../Players/Sharedlines.md)
+- [Sharedlines](../Players/sharedlines.md)
 - [xiNxghtmar3ix](../Players/nxght.md)
 - [Lil__Perp](../Players/lilperp.md)
 - [28st](../Players/28st.md)

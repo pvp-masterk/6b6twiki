@@ -29,7 +29,13 @@ This wiki was created on April 2nd, 2024. Please join our [Discord server](https
 ---
 6b6t is the largest Minecraft anarchy server, running on modified Folia server software that, along with other optimisations, allows 1000 players to be online at the same time in the same world world. Just like other anarchy servers, it has no rules, no punishments and no chat filters, but, unlike other anarchy servers it has /tpa and /home, the reasons for this are explained [here](https://blog.6b6t.org/about-6b6t/). 6b6t is owned by [Qbasty](./Players/qbasty.md) and was started on January 16th, 2022, and has merged maps with 7b7t. It was created with the hopes of being the largest lag-free anarchy server with no queue.
 
-Related links:
+## Maps
+---
+Theres also [a website made by 555](/maps) (50016 block² map and 20000 block² map) and one made by [Colonizadores](https://map.carlox.es/) (2048 blocks²) where a spawn map can be viewed
+
+
+## Useful links
+---
 * [Official Discord Server](https://discord.6b6t.org)
 * [Subreddit](https://www.reddit.com/r/6b6t/)
 * [Official X profile](https://twitter.com/6b6tAnarchy)

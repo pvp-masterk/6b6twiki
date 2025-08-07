@@ -5,11 +5,9 @@ tags:
 ---
 
 ## Discord
-### Original
-* `discord.gg/YhGuuhMGwJ`
+### [Original](https://discord.gg/YhGuuhMGwJ)
 
-### 2024 revival
-* `discord.gg/ajm7CSRBZY`
+### [2024 revival](https://discord.gg/ajm7CSRBZY)
 
 ## History
 * Founding date: May 30th, 2023

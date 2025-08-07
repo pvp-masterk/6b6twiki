@@ -8,7 +8,7 @@ tags:
 ## Identity
 * Full name: The Shadow Reapers (sometimes written as The Skull Rippers)
 * Abbreviation: TSR
-* Discord: `discord.gg/tsrclan`
+* [Discord](discord.gg/tsrclan)
 
 ## History
 * Founding date: 04/03/2024

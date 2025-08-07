@@ -9,8 +9,7 @@ tags:
 * abbreviation: none
 * No longer active
 
-## Discord:
-* https://discord.gg/fcecZ7Qd8z
+## [Discord](https://discord.gg/fcecZ7Qd8z)
 
 ## Founding information
 * Founding date: 23 May 2023

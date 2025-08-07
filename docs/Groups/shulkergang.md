@@ -5,7 +5,6 @@ tags:
 ---
 
 ## Identity
-* Full name: Shulkergang
 * Abbreviation: SG
 
 ## Discord

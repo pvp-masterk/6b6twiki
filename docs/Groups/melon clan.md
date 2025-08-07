@@ -5,12 +5,7 @@ tags:
   - Clan
 ---
 
-## Identity
-* Full name: `Melon Clan`
-* Abbreviation: `melon`
-
-## Discord:
-`dsc.gg/melon-clan`
+## [Discord](https://dsc.gg/melon-clan)
 
 ## Founding information
 * Founding date: Early 2023

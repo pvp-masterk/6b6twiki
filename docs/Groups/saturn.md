@@ -4,10 +4,6 @@ tags:
   - Group
 ---
 
-##  Identity
-* Full name: `Saturn 6b6t`
-* abbrevation: `Saturn`
-
 ## Discord
 ### Original
 * `discord.gg/YhGuuhMGwJ`

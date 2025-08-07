@@ -6,9 +6,8 @@ tags:
 ---
 
 ## Identity
-* Full name: `Saviors` 
-* Discord: `discord.gg/saviors`
-* Private Discord: `discord.gg/XJ9G7kHcra`
+* [Discord](https://discord.gg/saviors)
+* [Private Discord](https://discord.gg/XJ9G7kHcra)
 
 ## Founding information
 * Founding date: mid 2024

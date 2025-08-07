@@ -15,9 +15,10 @@ Abongza is not a real group or clan
 :::
 
 ## Identity
-* Name: Abongza
 * Abbreviation: ABG
 * Discord: `dsc.gg/oogabooga`
+
+**NOTE:** if theres no abbreviation delete the `* Abbreviation` line
 
 ## History
 * Founding date: 15 November 2023
@@ -39,6 +40,6 @@ Abongza is not a real group or clan
 - [CapyKing10](../Players/capy.md) (founder)
 - Fortniteballsowner96 (high member)
 
-## Logo / Banner:
+## Logo / Banner
 ![logo](../../static/img/groups/abongza/logo.png)
 ![banner](../../static/img/groups/abongza/banner.png)

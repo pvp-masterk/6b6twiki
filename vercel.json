@@ -1,10 +1,12 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "rewrites": [
+  "redirects": [
     {
       "source": "/maps",
-      "destination": "http://cube.node.plutonodes.com:25000/"
-    },
+      "destination": "/maps/"
+    }
+  ],
+  "rewrites": [
     {
       "source": "/maps/",
       "destination": "http://cube.node.plutonodes.com:25000/"

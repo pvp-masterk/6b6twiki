@@ -2,7 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
-      "source": "/maps/*",
+      "source": "/maps/(.*)",
       "destination": "http://cube.node.plutonodes.com:25000/"
     }
   ]

@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/maps",
-      "destination": "cube.node.plutonodes.com:25000/"
+      "destination": "http://cube.node.plutonodes.com:25000/"
     }
   ]
 }

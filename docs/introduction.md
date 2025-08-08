@@ -31,7 +31,7 @@ This wiki was created on April 2nd, 2024. Please join our [Discord server](https
 
 ## Maps
 ---
-Theres also [a website made by 555](/maps) (50016 block² map and 20000 block² map) and one made by [Colonizadores](https://map.carlox.es/) (2048 blocks²) where a spawn map can be viewed
+Theres also [a website made by 555](https://6b6t-wiki.vercel.app/maps) (50016 block² map and 20000 block² map) and one made by [Colonizadores](https://map.carlox.es/) (2048 blocks²) where a spawn map can be viewed
 
 
 ## Useful links

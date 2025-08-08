@@ -6,6 +6,10 @@
       "destination": "http://cube.node.plutonodes.com:25000/"
     },
     {
+      "source": "/maps/",
+      "destination": "http://cube.node.plutonodes.com:25000/"
+    },
+    {
       "source": "/maps/:path*",
       "destination": "http://cube.node.plutonodes.com:25000/:path*"
     }
